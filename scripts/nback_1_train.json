@@ -1,0 +1,3202 @@
+[
+    {
+        "input": "nnnhhtsggrzjjxjsvvxjddtt",
+        "target": "-mm-m---m---m----m---m-m"
+    },
+    {
+        "input": "gwfsvfxfnnnnljzkkkhhhxxv",
+        "target": "---------mmm----mm-mm-m-"
+    },
+    {
+        "input": "nnqqqdhrppvkqqqhhpdqcycc",
+        "target": "-m-mm----m---mm-m------m"
+    },
+    {
+        "input": "rrgcyynnsssxxgqssykbbnln",
+        "target": "-m---m-m-mm-m---m---m---"
+    },
+    {
+        "input": "bbdkysdllllldyyfrbwwwrbg",
+        "target": "-m------mmmm--m----mm---"
+    },
+    {
+        "input": "lllnnntsqqwwkkffyzfqvzcx",
+        "target": "-mm-mm---m-m-m-m--------"
+    },
+    {
+        "input": "hvsbbbbnndvvclffvvxlrkkv",
+        "target": "----mmm-m--m---m-m----m-"
+    },
+    {
+        "input": "ssgpcngcssqqqqqjjslknppc",
+        "target": "-m-------m-mmmm-m-----m-"
+    },
+    {
+        "input": "ndwlffxyybsssddsbhhzzrll",
+        "target": "-----m--m--mm-m---m-m--m"
+    },
+    {
+        "input": "wzzzccffpptdqnqqrcwddgww",
+        "target": "--mm-m-m-m-----m----m--m"
+    },
+    {
+        "input": "ysssgplzddggynnncwbbbghf",
+        "target": "--mm-----m-m--mm---mm---"
+    },
+    {
+        "input": "ckkttlllrvpdvvvhjlttwctt",
+        "target": "--m-m-mm-----mm----m---m"
+    },
+    {
+        "input": "tggghtglwxgbwkkkkqqqjcss",
+        "target": "--mm----------mmm-mm---m"
+    },
+    {
+        "input": "jlpprvdqdfdddlllllvbwwgy",
+        "target": "---m-------mm-mmmm---m--"
+    },
+    {
+        "input": "tkwtxkwwrqqqtttjjhhyqqpn",
+        "target": "-------m--mm-mm-m-m--m--"
+    },
+    {
+        "input": "httqzcnjjjbbbwwwlzplckbb",
+        "target": "--m-----mm-mm-mm-------m"
+    },
+    {
+        "input": "vvqdnjwwwctqwhryyyrttttk",
+        "target": "-m-----mm-------mm--mmm-"
+    },
+    {
+        "input": "hhqqqvrjnvqyyydjlfzzllrr",
+        "target": "-m-mm-------mm-----m-m-m"
+    },
+    {
+        "input": "ddzzzpllktqqbvlwwwnppsgy",
+        "target": "-m-mm--m---m----mm--m---"
+    },
+    {
+        "input": "frrkpppppyfwyyyvqskccyhw",
+        "target": "--m--mmmm----mm-----m---"
+    },
+    {
+        "input": "dzbxxxxxxhsbchcgggrfrbpp",
+        "target": "----mmmmm-------mm-----m"
+    },
+    {
+        "input": "kkkkvvqrpffsqqsckvyysqpp",
+        "target": "-mmm-m----m--m-----m---m"
+    },
+    {
+        "input": "vttzzzklbfnnnnttthlqngyb",
+        "target": "--m-mm-----mmm-mm-------"
+    },
+    {
+        "input": "zhwwzyynwwbddfxvqcxxxxxv",
+        "target": "---m--m--m--m------mmmm-"
+    },
+    {
+        "input": "xxsvlpwxnnnlvvvlggcppcyy",
+        "target": "-m-------mm--mm--m--m--m"
+    },
+    {
+        "input": "jwwwsswwscspcrrrrcczrfls",
+        "target": "--mm-m-m------mmm-m-----"
+    },
+    {
+        "input": "fvvvvjnnsfdbbbnyggzkkfcr",
+        "target": "--mmm--m----mm---m--m---"
+    },
+    {
+        "input": "btddkkkhzjjvppfqrrrrthgt",
+        "target": "---m-mm---m--m---mmm----"
+    },
+    {
+        "input": "shhhgryyycssssjscjslcndd",
+        "target": "--mm---mm--mmm---------m"
+    },
+    {
+        "input": "ttccctzpphwkffqnpppnzncc",
+        "target": "-m-mm---m----m---mm----m"
+    },
+    {
+        "input": "zzttstrrbbxxzztlbtyyybkv",
+        "target": "-m-m---m-m-m-m-----mm---"
+    },
+    {
+        "input": "wwdssgxbbkylwbbbyyqqpdjj",
+        "target": "-m--m---m-----mm-m-m---m"
+    },
+    {
+        "input": "rvvcqqchhhpptqttwbkzzrrj",
+        "target": "--m--m--mm-m---m----m-m-"
+    },
+    {
+        "input": "cnshdnnxkkylllgssbcddddr",
+        "target": "------m--m--mm--m---mmm-"
+    },
+    {
+        "input": "tksfpxxssnnnyyrtttntzzgw",
+        "target": "------m-m-mm-m--mm---m--"
+    },
+    {
+        "input": "dnxbwsskkklljjjztttwzpbf",
+        "target": "------m-mm-m-mm--mm-----"
+    },
+    {
+        "input": "bddyycbjjbyykkbbbbkltjld",
+        "target": "--m-m---m--m-m-mmm------"
+    },
+    {
+        "input": "ppchggqqqvfbbqbqqjssfyyt",
+        "target": "-m---m-mm---m---m--m--m-"
+    },
+    {
+        "input": "nnvxllqgssnhbbbpfzzzsgcc",
+        "target": "-m---m---m---mm---mm---m"
+    },
+    {
+        "input": "zttgddzlpkgqnrwwwwppyyyh",
+        "target": "--m--m---------mmm-m-mm-"
+    },
+    {
+        "input": "jrktpqkggggkjzllllxxzztc",
+        "target": "--------mmm----mmm-m-m--"
+    },
+    {
+        "input": "ddtfdddxxxxsjznjjdccstcp",
+        "target": "-m---mm-mmm-----m--m----"
+    },
+    {
+        "input": "nqnnrrrwxhfyyprrrffzvvwp",
+        "target": "---m-mm-----m--mm-m--m--"
+    },
+    {
+        "input": "wwkhbbrynnnnbqqqnbbyzhyh",
+        "target": "-m---m---mmm--mm--m-----"
+    },
+    {
+        "input": "vvvffqqgpgrrvjlllflpsyyr",
+        "target": "-mm-m-m----m---mm-----m-"
+    },
+    {
+        "input": "lnfffzzzzgfxxxxbsqdbcgrd",
+        "target": "---mm-mmm---mmm---------"
+    },
+    {
+        "input": "gfwjccttdddxxzppwxxksncc",
+        "target": "-----m-m-mm-m--m--m----m"
+    },
+    {
+        "input": "sqqxxxyyyyysfjnqsyyzxzwb",
+        "target": "--m-mm-mmmm-------m-----"
+    },
+    {
+        "input": "tttfkchhllvbrrgljbglnnnn",
+        "target": "-mm----m-m---m-------mmm"
+    },
+    {
+        "input": "xxxxxwwyycvchyyybbjnylnb",
+        "target": "--mmm-m-m-----mm-m------"
+    },
+    {
+        "input": "csjjzzrnsfftxxcccyygvvdz",
+        "target": "---m-m----m--m-mm-m--m--"
+    },
+    {
+        "input": "wwdytqqwkrdxrfffffqqddsq",
+        "target": "-m----m-------mmmm-m-m--"
+    },
+    {
+        "input": "gjjwwcljhhjjczvnllllfkss",
+        "target": "--m-m----m-m-----mmm---m"
+    },
+    {
+        "input": "rtnydggcwnffbxyyxxjjvvvv",
+        "target": "------m----m---m-m-m-mmm"
+    },
+    {
+        "input": "zzkffsjcccccxrrqpybzhhqz",
+        "target": "-m--m---mmmm--m------m--"
+    },
+    {
+        "input": "jjyyyhppppbylxbbbjfjthvw",
+        "target": "-m-mm--mmm-----mm-------"
+    },
+    {
+        "input": "vkrfhddwkkssttpppbnnllnz",
+        "target": "------m--m-m-m-mm--m-m--"
+    },
+    {
+        "input": "qqqffpwwzznkknjwvknvsssy",
+        "target": "-mm-m--m-m--m--------mm-"
+    },
+    {
+        "input": "pggfqqnjdcbbcyvvvcccdbbn",
+        "target": "--m--m-----m---mm-mm--m-"
+    },
+    {
+        "input": "kkdrdlzzqqqxjppcbfqqqbrr",
+        "target": "-m-----m-mm---m----mm--m"
+    },
+    {
+        "input": "bqbbcvvsslssssjvllddjdcg",
+        "target": "---m--m-m--mmm---m-m----"
+    },
+    {
+        "input": "gvllnwwwwwwbvnptxyynrxxt",
+        "target": "---m--mmmmm-------m---m-"
+    },
+    {
+        "input": "xxfskknpprcxxrnppxqsssgg",
+        "target": "-m---m--m---m---m---mm-m"
+    },
+    {
+        "input": "ghjjjssnhxcrrrrcyjpzzkqq",
+        "target": "---mm-m-----mmm-----m--m"
+    },
+    {
+        "input": "yktllllhldnnddgnnbnnnqfy",
+        "target": "----mmm----m-m--m--mm---"
+    },
+    {
+        "input": "pddkknwdcczrdddshlhwwwwh",
+        "target": "--m-m----m---mm-----mmm-"
+    },
+    {
+        "input": "fstbqhhhhhffffltsggphnsh",
+        "target": "------mmmm-mmm----m-----"
+    },
+    {
+        "input": "vfffqhhhhvwdcccgqdgnccys",
+        "target": "--mm--mmm----mm------m--"
+    },
+    {
+        "input": "lknnhnnvrrjjppxvvlnzbkkk",
+        "target": "---m--m--m-m-m--m-----mm"
+    },
+    {
+        "input": "lbbbhwwqqppwqgtnsssjjpnd",
+        "target": "--mm--m-m-m------mm-m---"
+    },
+    {
+        "input": "wggqpppnywwhsyyyjknwwwzk",
+        "target": "--m--mm---m---mm----mm--"
+    },
+    {
+        "input": "vnskzddddvjnzztxxxrrkkwp",
+        "target": "------mmm----m--mm-m-m--"
+    },
+    {
+        "input": "xwwvvknrnnvvvnnxdnpjjykk",
+        "target": "--m-m----m-mm-m-----m--m"
+    },
+    {
+        "input": "tvwyddvlhhjjcrfczggggggz",
+        "target": "-----m---m-m------mmmmm-"
+    },
+    {
+        "input": "dqqqjgggssxxknrgpnybvggg",
+        "target": "--mm--mm-m-m----------mm"
+    },
+    {
+        "input": "wwtyyyhnnkzppprxxggdxhbp",
+        "target": "-m--mm--m---mm--m-m-----"
+    },
+    {
+        "input": "bjggthhhnnpjyfwwyzzzgyyz",
+        "target": "---m--mm-m-----m--mm--m-"
+    },
+    {
+        "input": "xxzpyyspccwvvhvvvnzzcssj",
+        "target": "-m---m---m--m--mm--m--m-"
+    },
+    {
+        "input": "fbqyytggwwwcppnlqqfdsssj",
+        "target": "----m--m-mm--m---m---mm-"
+    },
+    {
+        "input": "sylqrdywwwxtdwwwkpppdddx",
+        "target": "--------mm----mm--mm-mm-"
+    },
+    {
+        "input": "wwwqqllccbxsppplvftylldb",
+        "target": "-mm-m-m-m----mm------m--"
+    },
+    {
+        "input": "vvwtfffwbcvvvpsjjxsrrrxt",
+        "target": "-m---mm----mm---m---mm--"
+    },
+    {
+        "input": "brynnhxddsxxxlwwxnnjvvss",
+        "target": "----m---m--mm--m--m--m-m"
+    },
+    {
+        "input": "tttvvcttccccxxldqrskbnxb",
+        "target": "-mm-m--m-mmm-m----------"
+    },
+    {
+        "input": "xpkwwwffcvnnjjffslvddktt",
+        "target": "----mm-m---m-m-m----m--m"
+    },
+    {
+        "input": "qqtxvkkkkyydprrrwwknhdnh",
+        "target": "-m----mmm-m---mm-m------"
+    },
+    {
+        "input": "fxxxrrkkjkkjlrrrvrfsttpt",
+        "target": "--mm-m-m--m---mm-----m--"
+    },
+    {
+        "input": "sszzddkpcxxxlwwwkdfjbbvs",
+        "target": "-m-m-m----mm--mm-----m--"
+    },
+    {
+        "input": "xxxfhhrzgcgpbbnncdncqqqq",
+        "target": "-mm--m-------m-m-----mmm"
+    },
+    {
+        "input": "ksfbnncxhhzflzzzzzsxkkrr",
+        "target": "-----m---m----mmmm---m-m"
+    },
+    {
+        "input": "ttplkhljjbbbbqqwllzzjkxx",
+        "target": "--------m-mmm-m--m-m---m"
+    },
+    {
+        "input": "cnxjhhhwwvfggggcqxyhvvvw",
+        "target": "-----mm-m---mmm------mm-"
+    },
+    {
+        "input": "vgggjyyysyzgpwydvjyyyyyr",
+        "target": "--mm--mm-----------mmmm-"
+    },
+    {
+        "input": "jjzvyqhhgnnnffffqsxwxrrp",
+        "target": "-m-----m--mm-mmm------m-"
+    },
+    {
+        "input": "bbffxfbjjfwxlllxxpwwwhnk",
+        "target": "-m-m----m----mm-m--mm---"
+    },
+    {
+        "input": "kkkbbccscrdxxwdsffrrcjdd",
+        "target": "-mm-m-m-----m----m-m---m"
+    },
+    {
+        "input": "jtdqnppwwffqtgggpsgggjgg",
+        "target": "------m-m-m---mm---mm--m"
+    },
+    {
+        "input": "nchsshhhkwwvggrfgggpynnp",
+        "target": "----m-mm--m--m---mm---m-"
+    },
+    {
+        "input": "bhpxxjzrjjvvdpfqqqqqglbb",
+        "target": "----m----m-m----mmmm---m"
+    },
+    {
+        "input": "ffssnnqqqcpxttccpnnvbygp",
+        "target": "-m-m-m-mm----m-m--m-----"
+    },
+    {
+        "input": "jgqsppyyytbbbpppggclyxdz",
+        "target": "-----m-mm--mm-mm-m------"
+    },
+    {
+        "input": "fkfndxbzqqlpppzzzlbbccnn",
+        "target": "---------m--mm-mm--m-m-m"
+    },
+    {
+        "input": "xxxxrrlzzcczztqccsvzyrbv",
+        "target": "-mmm-m--m-m-m---m-------"
+    },
+    {
+        "input": "qttvthhhbddjkccqqqfpprvf",
+        "target": "--m---mm--m---m-mm--m---"
+    },
+    {
+        "input": "kkkkjjfhhccdggdlchtxgqcc",
+        "target": "-mmm-m--m-m--m---------m"
+    },
+    {
+        "input": "htttkgvvvbjjhsssbzbfszxx",
+        "target": "--mm---mm--m--mm-------m"
+    },
+    {
+        "input": "qdpyqdddjggnqqqqzbttnjxx",
+        "target": "------mm--m--mmm---m---m"
+    },
+    {
+        "input": "jjjhcvrzzkkvzznnngnpjjdn",
+        "target": "-mm-----m-m--m-mm----m--"
+    },
+    {
+        "input": "wwrdyyxzwjjhxxxrckkkgqqw",
+        "target": "-m---m----m--mm---mm--m-"
+    },
+    {
+        "input": "wvxxxffxxxplpgdqyyyttcxr",
+        "target": "---mm-m-mm-------mm-m---"
+    },
+    {
+        "input": "ttttvvwwzzkkwwvkqvnqqfbv",
+        "target": "--mm-m-m-m-m-m------m---"
+    },
+    {
+        "input": "rvrrldfxsstxqddgggggdppj",
+        "target": "---m-----m----m-mmmm--m-"
+    },
+    {
+        "input": "bqgpzzbvccrrpjjjkkbbqvff",
+        "target": "-----m---m-m--mm-m-m---m"
+    },
+    {
+        "input": "pffhhhwwwwwdndtxwqldbbgc",
+        "target": "--m-mm-mmmm----------m--"
+    },
+    {
+        "input": "wwwpddddrnrybllqkppwwwgn",
+        "target": "--m--mmm------m---m-mm--"
+    },
+    {
+        "input": "lbbwkclqrrrrrvwwwjprbrcc",
+        "target": "--m------mmmm--mm------m"
+    },
+    {
+        "input": "ppppdxvcccfffrwwclpgdvsq",
+        "target": "-mmm----mm-mm--m--------"
+    },
+    {
+        "input": "ffxvvvhfvhhgcyybllhqlllp",
+        "target": "-m--mm----m---m--m---mm-"
+    },
+    {
+        "input": "vyyykpzyhgggxxxvvvyhvgcs",
+        "target": "--mm------mm-mm-mm------"
+    },
+    {
+        "input": "bbzysskgggsfzrgjjgggwcxx",
+        "target": "-m---m--mm------m-mm---m"
+    },
+    {
+        "input": "zznrgrvvvpjjthkyyyzppffw",
+        "target": "-m-----mm--m----mm--m-m-"
+    },
+    {
+        "input": "nqddvyyvvcyyqbggxxxxcgkq",
+        "target": "---m--m-m--m---m-mmm----"
+    },
+    {
+        "input": "hhydczzzzxxxxtrrhhxzgkqn",
+        "target": "------mmm-mmm--m-m------"
+    },
+    {
+        "input": "ywkwkpqqsffjqqqttddzjjjw",
+        "target": "-------m--m--mm-m-m--mm-"
+    },
+    {
+        "input": "ddlnnnxxffwpfyxqrrrlrrhz",
+        "target": "-m--mm-m-m-------mm--m--"
+    },
+    {
+        "input": "fxsbbfdddddklqbbbzhxsnrr",
+        "target": "----m--mmmm----mm------m"
+    },
+    {
+        "input": "yyzjjvrrxqqxxcwhhhnnsrvy",
+        "target": "-m--m--m--m-m---mm-m----"
+    },
+    {
+        "input": "wvvvtsskghhkkklfffgdbvhb",
+        "target": "--mm--m---m-mm--mm------"
+    },
+    {
+        "input": "bbbxxgslwzyqzztccyyykrrf",
+        "target": "-mm-m--------m--m-mm--m-"
+    },
+    {
+        "input": "xyphcwypnnnnnqqqlttxzfvv",
+        "target": "---------mmmm-mm--m----m"
+    },
+    {
+        "input": "nnnbdtttqqrkbptgggrffnqc",
+        "target": "-mm---mm-m------mm--m---"
+    },
+    {
+        "input": "vvpppbnhlddpppnznzknnntk",
+        "target": "-m-mm-----m-mm------mm--"
+    },
+    {
+        "input": "sjrnsrlqggggffjtpppcccfk",
+        "target": "---------mmm-m---mm-mm--"
+    },
+    {
+        "input": "ggwszvbbjhhtttsgzzvvbbpv",
+        "target": "-m-----m--m-mm---m-m-m--"
+    },
+    {
+        "input": "tjqbwqscfrrrzzzzzllbbsdk",
+        "target": "----------mm-mmmm-m-m---"
+    },
+    {
+        "input": "jddfnnlllxxhhbppdqvpgcck",
+        "target": "--m--m-mm-m-m--m------m-"
+    },
+    {
+        "input": "ffftppgbbjjhttrysxdpwwzz",
+        "target": "-mm--m--m-m--m-------m-m"
+    },
+    {
+        "input": "tqqrkkxxynnkrssrrrppqvhw",
+        "target": "--m--m-m--m---m-mm-m----"
+    },
+    {
+        "input": "nrrjngxqrxgggxsscvdddddq",
+        "target": "--m--------mm--m---mmmm-"
+    },
+    {
+        "input": "vvvvvqqssssnswrydbkpzvxd",
+        "target": "-mmmm-m-mmm-------------"
+    },
+    {
+        "input": "ktttjjxsscvnnllpvchhrrhx",
+        "target": "--mm-m--m---m-m----m-m--"
+    },
+    {
+        "input": "zdnkkglllpnnkkbbbrdsdzzl",
+        "target": "----m--mm--m-m-mm-----m-"
+    },
+    {
+        "input": "grrrrwgjxrrbrxbjjjwwdbtt",
+        "target": "--mmm-----m-----mm-m---m"
+    },
+    {
+        "input": "bbxvvxxffrfyylzcggxqqvvj",
+        "target": "-m--m-m-m---m----m--m-m-"
+    },
+    {
+        "input": "fczclqppttnnfffjhhddhhyt",
+        "target": "-------m-m-m-mm--m-m-m--"
+    },
+    {
+        "input": "nrrrjckffqkssddbbxzhhggx",
+        "target": "--mm----m---m-m-m---m-m-"
+    },
+    {
+        "input": "hjjjzzvvvhsppptcfxsswkpb",
+        "target": "--mm-m-mm---mm-----m----"
+    },
+    {
+        "input": "fplryyxfccggzppqvccnnddd",
+        "target": "-----m---m-m--m---m-m-mm"
+    },
+    {
+        "input": "bjjjllstjffhhhbvvwzzpvdp",
+        "target": "--mm-m----m-mm--m--m----"
+    },
+    {
+        "input": "qygwvvvvvkkxwpyqqddhgyff",
+        "target": "-----mmmm-m-----m-m----m"
+    },
+    {
+        "input": "sttfyyyqqgggjjtnjjrxpsql",
+        "target": "--m--mm-m-mm-m---m------"
+    },
+    {
+        "input": "vvvjjjrkkkpsxxtdgcxftllh",
+        "target": "-mm-mm--mm---m--------m-"
+    },
+    {
+        "input": "pzfknnngqqwhhhttxxksqzzp",
+        "target": "-----mm--m--mm-m-m----m-"
+    },
+    {
+        "input": "cqqyttffqqqkkhrdrjzzxxdl",
+        "target": "--m--m-m-mm-m------m-m--"
+    },
+    {
+        "input": "lllpkkppgrnythllnnhkkkjp",
+        "target": "-mm--m-m-------m-m--mm--"
+    },
+    {
+        "input": "ddppppbwydkbbblxqggrbbkg",
+        "target": "-m-mmm------mm----m--m--"
+    },
+    {
+        "input": "httsbdhnzzsbggghffflzsss",
+        "target": "--m------m---mm--mm---mm"
+    },
+    {
+        "input": "qffxcchhkvrvvwppppdbcpxx",
+        "target": "--m--m-m----m--mmm-----m"
+    },
+    {
+        "input": "ffddgtywwwwwrrsdfvfppdhn",
+        "target": "-m-m----mmmm-m------m---"
+    },
+    {
+        "input": "sqqqtjjwnwhhlscszhhggccc",
+        "target": "--mm--m----m------m-m-mm"
+    },
+    {
+        "input": "xnnccccttzffwyqqyjfvstxx",
+        "target": "--m-mmm-m--m---m-------m"
+    },
+    {
+        "input": "hhhtjddgrttkkkklwdvvhxkt",
+        "target": "-mm---m---m-mmm----m----"
+    },
+    {
+        "input": "hqqvvyppnnxxxfffqybvlqlt",
+        "target": "--m-m--m-m-mm-mm--------"
+    },
+    {
+        "input": "ppnxxxpddgyjnwnnnnkchccw",
+        "target": "-m--mm--m------mmm----m-"
+    },
+    {
+        "input": "vyyyyxxxxttwffnkthjshdqz",
+        "target": "--mmm-mmm-m--m----------"
+    },
+    {
+        "input": "nzfffbbkwxqrrssszzxgzzgp",
+        "target": "---mm-m-----m-mm-m---m--"
+    },
+    {
+        "input": "qyzxsggdhcjbrbbbxxnnnnnd",
+        "target": "------m-------mm-m-mmmm-"
+    },
+    {
+        "input": "bzzdybbtttvybbwcvvxvvvhc",
+        "target": "--m---m-mm---m---m--mm--"
+    },
+    {
+        "input": "pnxxkgnjgggggjllvccttjrb",
+        "target": "---m-----mmmm--m--m-m---"
+    },
+    {
+        "input": "pnllllsblgdttfffbwphzzzx",
+        "target": "---mmm------m-mm-----mm-"
+    },
+    {
+        "input": "vrxcccchhkkchhydkkhsslhn",
+        "target": "----mmm-m-m--m---m--m---"
+    },
+    {
+        "input": "ytttjcxtfpqqqztrrrccbbvq",
+        "target": "--mm-------mm---mm-m-m--"
+    },
+    {
+        "input": "fffcndkkwlttghvvvvdvfdkk",
+        "target": "-mm----m---m---mmm-----m"
+    },
+    {
+        "input": "zhhdddwrrssbwgxvvbbvpxxb",
+        "target": "--m-mm--m-m-----m-m---m-"
+    },
+    {
+        "input": "syyhcffbwgnnccdjjjjxwfvv",
+        "target": "--m---m----m-m--mmm----m"
+    },
+    {
+        "input": "llkddrzzpryyybnrdhxxxffx",
+        "target": "-m--m--m---mm------mm-m-"
+    },
+    {
+        "input": "rnfwwbhkcggggssddttnwwxn",
+        "target": "----m-----mmm-m-m-m--m--"
+    },
+    {
+        "input": "nngfdzzlrxngwwwwljjngggc",
+        "target": "-m----m------mmm--m--mm-"
+    },
+    {
+        "input": "vvhxjjdzznnnrbyxysszzdhh",
+        "target": "-m---m--m-mm------m-m--m"
+    },
+    {
+        "input": "pggffchwzzhwfjfffjxxxnny",
+        "target": "--m-m----m-----mm--mm-m-"
+    },
+    {
+        "input": "skkwwlyywntkggjjbbvvvdjc",
+        "target": "--m-m--m-----m-m-m-mm---"
+    },
+    {
+        "input": "jwwwjbpxllpptvvjnnqbbbsd",
+        "target": "--mm-----m-m--m--m--mm--"
+    },
+    {
+        "input": "vvvpppggnvqthsyvffhhhqjt",
+        "target": "-mm-mm-m---------m-mm---"
+    },
+    {
+        "input": "bbtyyxxttnvtwnntrrkqqzww",
+        "target": "-m--m-m-m-----m--m--m--m"
+    },
+    {
+        "input": "gyqqqjjfsyyhhhzxxpplztyr",
+        "target": "---mm-m---m-mm--m-m-----"
+    },
+    {
+        "input": "snyvvvvgqxxxjrdnggggjszn",
+        "target": "----mmm---mm-----mmm----"
+    },
+    {
+        "input": "xtyyjvvyhrtyyyjlrsfffffl",
+        "target": "---m--m-----mm-----mmmm-"
+    },
+    {
+        "input": "rrfkrrffjjbbrhqqvrxjbbbc",
+        "target": "-m---m-m-m-m---m-----mm-"
+    },
+    {
+        "input": "jhxxxxttjtxqdfqqhhvvnkvv",
+        "target": "---mmm-m-------m-m-m---m"
+    },
+    {
+        "input": "ffbszygdhggvgppynnnnnppr",
+        "target": "-m--------m---m--mmmm-m-"
+    },
+    {
+        "input": "qcxyyynnwxxfdqgggyyddhyh",
+        "target": "----mm-m--m----mm-m-m---"
+    },
+    {
+        "input": "zbhzdddqqqnlrpnjjjjjqjsr",
+        "target": "-----mm-mm------mmmm----"
+    },
+    {
+        "input": "rkxxxwhddqvvsycclkznnnnc",
+        "target": "---mm---m--m---m----mmm-"
+    },
+    {
+        "input": "nyyyfpftttwrnnllddhhwnyt",
+        "target": "--mm----mm---m-m-m-m----"
+    },
+    {
+        "input": "vchlknnsspppqnnnnzptxxng",
+        "target": "------m-m-mm--mmm----m--"
+    },
+    {
+        "input": "gvgbpcctgphhqcccqqqwwwjw",
+        "target": "------m----m--mm-mm-mm--"
+    },
+    {
+        "input": "lwppnlwdkwssjbbbbhsssffh",
+        "target": "---m-------m--mmm--mm-m-"
+    },
+    {
+        "input": "jzzybxxxtlktdvdvvnnzzztt",
+        "target": "--m---mm--------m-m-mm-m"
+    },
+    {
+        "input": "hzwwyyyyzwqqqdppgcpjnxnn",
+        "target": "---m-mmm---mm--m-------m"
+    },
+    {
+        "input": "ffxvpppxfxpcctkkkktrrrfp",
+        "target": "-----mm-----m--mmm--mm--"
+    },
+    {
+        "input": "hrlllvggxwwwllhplbswwwcp",
+        "target": "---mm--m--mm-m------mm--"
+    },
+    {
+        "input": "wwjpvbgvvxxwwzzzzvggbvyt",
+        "target": "-m------m-m-m-mmm--m----"
+    },
+    {
+        "input": "jhhccqppgxxhyvrqjjslcccc",
+        "target": "--m-m--m--m------m---mmm"
+    },
+    {
+        "input": "swbbbghhpppdpgwwzhrrqwpp",
+        "target": "---mm--m-mm----m---m---m"
+    },
+    {
+        "input": "rrpjjjbbbwvvtgsjvjckkddn",
+        "target": "-m--mm-mm--m--------m-m-"
+    },
+    {
+        "input": "xxxffdhsllltddnwwwvhnwwl",
+        "target": "--m-m----mm--m--mm----m-"
+    },
+    {
+        "input": "ywgyyysssksclvddhhhqtjjg",
+        "target": "----mm-mm------m-mm---m-"
+    },
+    {
+        "input": "gcccdqgtswzzhrsttdddyfff",
+        "target": "--mm-------m----m-mm--mm"
+    },
+    {
+        "input": "zxxhvllnnjzzxpthyssqqppp",
+        "target": "--m---m-m--m------m-m-mm"
+    },
+    {
+        "input": "wjjjgynnnnnsppvbztxkhggz",
+        "target": "--mm---mmmm--m--------m-"
+    },
+    {
+        "input": "tjjggjjttdyrnyykkkhdwwfy",
+        "target": "--m-m-m-m-----m-mm---m--"
+    },
+    {
+        "input": "ynlltttppqsjjjsddhvwlkkc",
+        "target": "---m-mm-m---mm--m-----m-"
+    },
+    {
+        "input": "xttswfszzzxvvzrlggccttty",
+        "target": "--m-----mm--m----m-m-mm-"
+    },
+    {
+        "input": "hhkkyyybgtdthjjjxyffxxtd",
+        "target": "-m-m-mm-------mm---m-m--"
+    },
+    {
+        "input": "wwwswlllsxrqqqzfffxrjwdj",
+        "target": "-mm---mm----mm--mm------"
+    },
+    {
+        "input": "vvszzzjtttpfggbhfttqqzvy",
+        "target": "-m--mm--mm---m----m-m---"
+    },
+    {
+        "input": "jrdrkvpbbbywgpkkkrrrcggg",
+        "target": "--------mm-----mm-mm--mm"
+    },
+    {
+        "input": "lqpyywwwnpflbbhssnwllljj",
+        "target": "----m-mm-----m--m---mm-m"
+    },
+    {
+        "input": "jklljppnzzqgppffllpphjdd",
+        "target": "---m--m--m---m-m-m-m---m"
+    },
+    {
+        "input": "ggwwwqqhhbcnbbfltghjqqqz",
+        "target": "-m-mm-m-m----m-------mm-"
+    },
+    {
+        "input": "lcspxxbbtcccppqqfsvssffk",
+        "target": "-----m-m--mm-m-m----m-m-"
+    },
+    {
+        "input": "jjbllrqqspqqqxllllydzhgv",
+        "target": "-m--m--m---mm--mmm------"
+    },
+    {
+        "input": "grqqhyllnyphhhnttttpllzn",
+        "target": "---m---m----mm--mmm--m--"
+    },
+    {
+        "input": "bbbnsnnszzzqqccbbhzqfrcq",
+        "target": "-mm---m--mm-m-m-m-------"
+    },
+    {
+        "input": "qqllwxffhhhpbbvvvxzyzzqn",
+        "target": "---m---m-mm--m-mm----m--"
+    },
+    {
+        "input": "wwshhkbbbkkkxrdddtkvhcjc",
+        "target": "-m--m--mm-mm---mm-------"
+    },
+    {
+        "input": "pggghhhhhfjdrxqhgggrcphf",
+        "target": "--mm-mmmm--------mm-----"
+    },
+    {
+        "input": "cxxxjqyykwwllffyqnrhxxss",
+        "target": "--mm---m--m-m-m------m-m"
+    },
+    {
+        "input": "vgrkkldddtbjhhhqnhhfnbbb",
+        "target": "----m--mm----mm---m---mm"
+    },
+    {
+        "input": "zzjjrgvvyjtpphhygyrrrkkc",
+        "target": "-m-m---m----m-m----mm-m-"
+    },
+    {
+        "input": "tyccpkkkkkccxyygpzfkkrdf",
+        "target": "---m--mmmm-m--m-----m---"
+    },
+    {
+        "input": "gjjjjffnbbddqqljltvtbvss",
+        "target": "--mmm-m--m-m-m---------m"
+    },
+    {
+        "input": "bkbzhlljjjjhqybbbnttcqss",
+        "target": "------m-mmm----mm--m---m"
+    },
+    {
+        "input": "kkzzppwgbbkpbkcrpppvzzrr",
+        "target": "-m-m-m---m-------mm--m-m"
+    },
+    {
+        "input": "znnllllllghgbzzzpxflbknc",
+        "target": "--m-mmmmm-----mm--------"
+    },
+    {
+        "input": "dvrttttlkpcccppvvgkkskyh",
+        "target": "----mmm----mm-m-m--m----"
+    },
+    {
+        "input": "njjhvvcsssjkkkzsrttpvnns",
+        "target": "--m--m--mm--mm----m---m-"
+    },
+    {
+        "input": "hhfwwwppshhvvvvfscjvydqh",
+        "target": "-m--mm-m--m-mmm---------"
+    },
+    {
+        "input": "kkvvcvgbypyffppnlldxxxxd",
+        "target": "-m-m--------m-m--m--mmm-"
+    },
+    {
+        "input": "ttjjjjjrzczxsycnnvrpnnnz",
+        "target": "-m-mmmm---------m----mm-"
+    },
+    {
+        "input": "ynnhhgtttjxbdpggglsrvyyy",
+        "target": "--m-m--mm------mm-----mm"
+    },
+    {
+        "input": "ssjjtvwwwwwwwqvvxnlyxrpz",
+        "target": "---m---mmmmmm--m--------"
+    },
+    {
+        "input": "xxksbbktnnnnnnkvdfjjsjcp",
+        "target": "-m---m---mmmmm-----m----"
+    },
+    {
+        "input": "nrbdqffpqnnvvlrrxxxggvvn",
+        "target": "------m---m-m--m-mm-m-m-"
+    },
+    {
+        "input": "zzyyvghxxgppnkkjnnffskky",
+        "target": "-m-m----m--m--m--m-m--m-"
+    },
+    {
+        "input": "qwwqqhhggglddfzzsfpllvkj",
+        "target": "--m-m-m-mm--m--m----m---"
+    },
+    {
+        "input": "bghdrrrrqyntnjvvhhhwwvvg",
+        "target": "-----mmm-------m-mm-m-m-"
+    },
+    {
+        "input": "djbbbrdxwhdtjjccbbyyxxvv",
+        "target": "---mm--------m-m-m-m-m-m"
+    },
+    {
+        "input": "jqqchhhnqqlcxwpwvvvbbjzz",
+        "target": "--m--mm--m-------mm-m--m"
+    },
+    {
+        "input": "vvvnggnssjsjphpxwcccgggn",
+        "target": "-mm--m--m---------mm-mm-"
+    },
+    {
+        "input": "zzbbbyylwswvqqxxjqqxdppl",
+        "target": "-m-mm-m------m-m--m---m-"
+    },
+    {
+        "input": "ttvnnnknrrdddlhddwxpprhy",
+        "target": "-m--mm---m-mm---m---m---"
+    },
+    {
+        "input": "lcpdscsggggvfffzvvpplbww",
+        "target": "--------mmm--mm--m-m---m"
+    },
+    {
+        "input": "ssynnnzpkkkfljtkwnbffttt",
+        "target": "-m--mm---mm---------m-mm"
+    },
+    {
+        "input": "ldddxxrrrssjcrcjzzzsczwf",
+        "target": "--mm-m-mm-m------mm-----"
+    },
+    {
+        "input": "gnnnqlwwffflsknnqqqvbdvf",
+        "target": "--mm---m-mm----m-mm-----"
+    },
+    {
+        "input": "sczzfppznbbhggssdvjllllc",
+        "target": "---m--m---m--m-m----mmm-"
+    },
+    {
+        "input": "fplkgddddshyvlkkbbbylttt",
+        "target": "------mmm------m-mm---mm"
+    },
+    {
+        "input": "ggqwwwttlxxxwzzhgvxsvssl",
+        "target": "-m--mm-m--mm--m-------m-"
+    },
+    {
+        "input": "pnvrrdffdxzrnnbbsnjjjppp",
+        "target": "----m--m-----m-m---mm-mm"
+    },
+    {
+        "input": "byjjnctfrfwjnppddllttttt",
+        "target": "---m----------m-m-m-mmmm"
+    },
+    {
+        "input": "ttttptzzdzpprzzbbrggcrcj",
+        "target": "-mmm---m---m--m-m--m----"
+    },
+    {
+        "input": "zzzhhhknpnvhhsjjjqhpssrh",
+        "target": "-mm-mm------m--mm----m--"
+    },
+    {
+        "input": "rcgggsssdxsvhhhccksgwlff",
+        "target": "---mm-mm-----mm-m------m"
+    },
+    {
+        "input": "ddddksfdggvcvppppblxxfjb",
+        "target": "-mmm-----m----mmm---m---"
+    },
+    {
+        "input": "twbfddttjqqqcsqqjwppgggd",
+        "target": "-----m-m--mm---m---m-mm-"
+    },
+    {
+        "input": "bbbtqdnhdcccqvvzdqqdddcw",
+        "target": "-mm-------mm--m---m-mm--"
+    },
+    {
+        "input": "dccckxpbcccssffffxtskqgf",
+        "target": "--mm-----mm-m-mmm-------"
+    },
+    {
+        "input": "hhhcczzbthhvvkfwwjnswssw",
+        "target": "-mm-m-m---m-m---m-----m-"
+    },
+    {
+        "input": "bdjjfyydddsspxggbjqqvhxx",
+        "target": "---m--m-mm-m---m---m---m"
+    },
+    {
+        "input": "wjtttwjjssyxxxjzggtwssjk",
+        "target": "---mm--m-m--mm---m---m--"
+    },
+    {
+        "input": "xxvkllrknyynnyypwqssllkk",
+        "target": "-m---m----m-m-m----m-m-m"
+    },
+    {
+        "input": "kkvfkxxfbssryyskknnllrrx",
+        "target": "-m----m---m--m--m-m-m-m-"
+    },
+    {
+        "input": "dnnkkkssyyyhyhprvswbkkkz",
+        "target": "--m-mm-m-mm----------mm-"
+    },
+    {
+        "input": "whssqqwxzzzzzhhxphttdndx",
+        "target": "---m-m---mmmm-m----m----"
+    },
+    {
+        "input": "sjzggffyynrrbbbwwllbdclt",
+        "target": "----m-m-m--m-mm-m-m-----"
+    },
+    {
+        "input": "zzzqqhqqsswwgggcbbklspwf",
+        "target": "--m-m--m-m-m-mm--m------"
+    },
+    {
+        "input": "ssppccznqksskyydddqcckfw",
+        "target": "-m-m-m-----m--m-mm--m---"
+    },
+    {
+        "input": "ggggvqnsbyykkwcqwwccvqqw",
+        "target": "-mmm------m-m----m-m--m-"
+    },
+    {
+        "input": "lllkdfczlnnphhqsvssjjjxx",
+        "target": "-mm-------m--m----m-mm-m"
+    },
+    {
+        "input": "qssssstdsbbnggdjffhycwwb",
+        "target": "--mmmm----m--m---m----m-"
+    },
+    {
+        "input": "hdggkwyycsllcxxwxrrpphhh",
+        "target": "---m---m---m--m---m-m-mm"
+    },
+    {
+        "input": "dddjddkxxzsvvqfnvzzllvkk",
+        "target": "-mm--m--m---m-----m-m--m"
+    },
+    {
+        "input": "hrvvcxhyyrnnnfwwffqpnnbb",
+        "target": "---m----m--mm--m-m---m-m"
+    },
+    {
+        "input": "ffsssstxxcptsykjvvxtfffp",
+        "target": "-m-mmm--m--------m---mm-"
+    },
+    {
+        "input": "vplcxqqvyvxddcctttppvvvh",
+        "target": "------m-----m-m-mm-m-mm-"
+    },
+    {
+        "input": "wwwzdtttgbbhxskxyrgwwwff",
+        "target": "-mm---mm--m---------mm-m"
+    },
+    {
+        "input": "prlqyqqgjjppvqjjdddddrxs",
+        "target": "------m--m-m---m-mmmm---"
+    },
+    {
+        "input": "nnnyppdvjsswwxrjvbbbbksn",
+        "target": "-mm--m----m-m-----mmm---"
+    },
+    {
+        "input": "lffqxxdkszzzcccrnqqfglss",
+        "target": "--m--m----mm-mm---m----m"
+    },
+    {
+        "input": "bblsgtrbhdyllwsssssyrrbb",
+        "target": "-m----------m--mmmm--m-m"
+    },
+    {
+        "input": "vjrzbqqkkkbvvzbbbbjwsttw",
+        "target": "------m-mm--m--mmm----m-"
+    },
+    {
+        "input": "qprhnzzzrryywwwshjjpvvzr",
+        "target": "------mm-m-m-mm---m--m--"
+    },
+    {
+        "input": "hwvvvdyzgfhllllbbblfyhhn",
+        "target": "---mm-------mmm-mm----m-"
+    },
+    {
+        "input": "xxqqrvdhwwnnnkllxxrwllnz",
+        "target": "-m-m-----m-mm--m-m---m--"
+    },
+    {
+        "input": "jhnzcqgyyggzzzwzccczbbby",
+        "target": "--------m-m-mm---mm--mm-"
+    },
+    {
+        "input": "qyyyqqkkkbkgbbrrpnndrwnj",
+        "target": "--mm-m-mm----m-m--m-----"
+    },
+    {
+        "input": "jtljjjzhjjjjyttzsssqvqdk",
+        "target": "----mm---mmm--m--mm-----"
+    },
+    {
+        "input": "pjjhdbttyyycrvvwwbfjjwwf",
+        "target": "--m----m-mm---m-m---m-m-"
+    },
+    {
+        "input": "xxwtsvvvvcspxxxzkgwzzccp",
+        "target": "-m----mmm----mm-----m-m-"
+    },
+    {
+        "input": "yqggttrkkkyqlgvvssxxttsy",
+        "target": "---m-m--mm-----m-m-m-m--"
+    },
+    {
+        "input": "cpfppfnnnbxzvbylllpzzzvv",
+        "target": "----m--mm-------mm--mm-m"
+    },
+    {
+        "input": "pplldvddrvkccttzzzqqxzjr",
+        "target": "-m-m---m----m-m-mm-m----"
+    },
+    {
+        "input": "jjgzgdffffkdflvddyyyydlv",
+        "target": "-m-----mmm------m-mmm---"
+    },
+    {
+        "input": "kkxqwptzzwppffffccjjygdc",
+        "target": "-m------m--m-mmm-m-m----"
+    },
+    {
+        "input": "dllllqjqqjjjpdfhhrvbbvqs",
+        "target": "--mmm---m-mm----m---m---"
+    },
+    {
+        "input": "npprrsvvfffbzzfwcxxlddhj",
+        "target": "--m-m--m-mm--m----m--m--"
+    },
+    {
+        "input": "nvznyqqswwffffkfcddxxwcc",
+        "target": "------m--m-mmm----m-m--m"
+    },
+    {
+        "input": "pppkwxvvgnqqxffkrrrrhptq",
+        "target": "-mm----m---m--m--mmm----"
+    },
+    {
+        "input": "lbndsdtqqqhhhhhfrrbpsyyc",
+        "target": "--------mm-mmmm--m----m-"
+    },
+    {
+        "input": "rppzzjrsskjqwsyyyjnhhggg",
+        "target": "--m-m---m------mm---m-mm"
+    },
+    {
+        "input": "nnchpprrxzzjjhggcsddyyhl",
+        "target": "-m---m-m--m-m--m---m-m--"
+    },
+    {
+        "input": "kjjjppppkyzzkkblzknhhqsl",
+        "target": "--mm-mmm---m-m------m---"
+    },
+    {
+        "input": "lxtttwqykkkpdwwxxxcllpyc",
+        "target": "---mm----mm---m-mm--m---"
+    },
+    {
+        "input": "xzbbxltddddhhhhqyfkzcjww",
+        "target": "---m----mmm-mmm--------m"
+    },
+    {
+        "input": "yyytsppyyyyhnnvvvhfpwdpd",
+        "target": "--m---m-mmm--m-mm-------"
+    },
+    {
+        "input": "kzzssttrrltwwwdhkklyssvd",
+        "target": "--m-m-m-m---mm---m---m--"
+    },
+    {
+        "input": "gdsspnggphhpppyyytljdqqp",
+        "target": "---m---m--m-mm-mm-----m-"
+    },
+    {
+        "input": "gzyynnnstbyyvybbjjgdtnnn",
+        "target": "---m-mm----m---m-m----mm"
+    },
+    {
+        "input": "pxtdddyylhhhkkpxwbbplnnf",
+        "target": "----mm-m--mm-m----m---m-"
+    },
+    {
+        "input": "zvdscxssssjrrrqfyyqhhhbc",
+        "target": "-------mmm--mm---m--mm--"
+    },
+    {
+        "input": "xxkssvpppwyqqqvvfgctbvkk",
+        "target": "-m--m--mm---mm-m-------m"
+    },
+    {
+        "input": "klfdnckkkkllrxjhkkwwwtss",
+        "target": "-------mmm-m-----m-mm--m"
+    },
+    {
+        "input": "bbzpdgrbddddrcwvzzvvqccc",
+        "target": "-m-------mmm-----m-m--mm"
+    },
+    {
+        "input": "lttjqtpwwhhhljjqqjjgdkll",
+        "target": "--m-----m-mm--m-m-m----m"
+    },
+    {
+        "input": "jjccyypvvvfxgyrrgchttfgg",
+        "target": "-m-m-m--mm-----m----m--m"
+    },
+    {
+        "input": "cchhzccggdjwwjyqqgvvjnnj",
+        "target": "-m-m--m-m---m---m--m--m-"
+    },
+    {
+        "input": "nnnncssppqbklqwwtqhtsppp",
+        "target": "-mmm--m-m------m------mm"
+    },
+    {
+        "input": "dttvvdjjlqwjggqjnqqqqqbc",
+        "target": "--m-m--m-----m----mmmm--"
+    },
+    {
+        "input": "qqqslzfqqkztzzllbtssszzk",
+        "target": "-mm-----m----m-m---mm-m-"
+    },
+    {
+        "input": "dzwrwwhqwwvvkkppplsrrrcn",
+        "target": "-----m---m-m-m-mm---mm--"
+    },
+    {
+        "input": "xxxffdbbcfccclrgzppcpvhh",
+        "target": "-mm-m--m---mm-----m----m"
+    },
+    {
+        "input": "lrnntwvyygjxxxqqlllstqbb",
+        "target": "---m----m---mm-m-mm----m"
+    },
+    {
+        "input": "lllsggwsskkkkxpqdzhbppcf",
+        "target": "-mm--m--m-mmm--------m--"
+    },
+    {
+        "input": "wwrrsrbprrwgghnnfyyyspgg",
+        "target": "-m-m-----m--m--m--mm---m"
+    },
+    {
+        "input": "hlljrgkkggglbbblslddpprc",
+        "target": "--m----m-mm--mm----m-m--"
+    },
+    {
+        "input": "pppwwgccjvllssfsnwwvvzdf",
+        "target": "-mm-m--m---m-m----m-m---"
+    },
+    {
+        "input": "bvtrrrffyzyrssshhfdgzzzl",
+        "target": "----mm-m-----mm-m----mm-"
+    },
+    {
+        "input": "crrrnjfczyjjjbcggggghwth",
+        "target": "--mm-------mm---mmmm----"
+    },
+    {
+        "input": "fffygpkkkxxyzcsyyyfjjswt",
+        "target": "-mm----mm-m-----mm--m---"
+    },
+    {
+        "input": "nncrrlzzlrvwjjrhhkkkpkdd",
+        "target": "-m--m--m-----m--m-mm---m"
+    },
+    {
+        "input": "tlwkxgddlnnnddkwwwbbbshk",
+        "target": "-------m--mm-m--mm-mm---"
+    },
+    {
+        "input": "zcccwwfffczyynzfxddhpkll",
+        "target": "--mm-m-mm---m-----m----m"
+    },
+    {
+        "input": "nwwyzlnnffwlwvvvvcrqwwzz",
+        "target": "--m----m-m----mmm----m-m"
+    },
+    {
+        "input": "pppddgbbfhhglllhjqqsvwdg",
+        "target": "-mm-m--m--m--mm---m-----"
+    },
+    {
+        "input": "qqqwvrrclyzlrxppkkppnttt",
+        "target": "-mm---m--------m-m-m--mm"
+    },
+    {
+        "input": "ngxxzzcqqjtblypddttttyll",
+        "target": "---m-m--m-------m-mmm--m"
+    },
+    {
+        "input": "cddppkycbbbjpzddwfvvvvcg",
+        "target": "--m-m----mm----m---mmm--"
+    },
+    {
+        "input": "wwllqqqbwwxthhssxznrfffk",
+        "target": "---m-mm--m---m-m-----mm-"
+    },
+    {
+        "input": "lnzwwwwbhzcxxcsssvttcrry",
+        "target": "----mmm-----m--mm--m--m-"
+    },
+    {
+        "input": "llllxxdlllrfssfkqtwgykkz",
+        "target": "-mmm-m--mm---m--------m-"
+    },
+    {
+        "input": "hhtppppqzgxxlllkxxgzlhqq",
+        "target": "----mmm----m-mm--m-----m"
+    },
+    {
+        "input": "ggwwxxxynpjbwsxxxssgxppb",
+        "target": "-m-m-mm--------mm-m---m-"
+    },
+    {
+        "input": "pfbcyjjsnnhnnnndddvvfdky",
+        "target": "------m--m--mmm-mm-m----"
+    },
+    {
+        "input": "tccgydggkggfnnyyydxrrbbf",
+        "target": "--m----m--m--m-mm---m-m-"
+    },
+    {
+        "input": "ysbnyypccccssvqqkttdpvvb",
+        "target": "-----m--mmm-m--m--m---m-"
+    },
+    {
+        "input": "kkfhhlrrhybddllnddynqfff",
+        "target": "-m--m--m----m-m--m----mm"
+    },
+    {
+        "input": "fytpnbbpjjjcnnnywdpgggnn",
+        "target": "------m--mm--mm-----mm-m"
+    },
+    {
+        "input": "jzddwppfffddwlffxxtnnkjt",
+        "target": "---m--m-mm-m---m-m--m---"
+    },
+    {
+        "input": "ggyddzrvllyyrrsskggxppyg",
+        "target": "-m--m----m-m-m-m--m--m--"
+    },
+    {
+        "input": "kjqqqccccwcpxssddnnsglhy",
+        "target": "---mm-mmm-----m-m-m-----"
+    },
+    {
+        "input": "ccccyyhwpvptcpnnnnnllqvk",
+        "target": "--mm-m---------mmmm-m---"
+    },
+    {
+        "input": "gyyllyjdddknppgkgqzzkkkv",
+        "target": "--m-m---mm---m-----m-mm-"
+    },
+    {
+        "input": "shhhgrppvbbtwwxhhjyzpnnn",
+        "target": "--mm---m--m--m--m-----mm"
+    },
+    {
+        "input": "dddprbbbvjllnyylhhpzjwwx",
+        "target": "-mm---mm---m--m--m----m-"
+    },
+    {
+        "input": "ddpntzzhqskklvvjqqqqqjqf",
+        "target": "-m----m----m--m--mmmm---"
+    },
+    {
+        "input": "dtssssszxxhzyskfffkcffws",
+        "target": "---mmmm--m------mm---m--"
+    },
+    {
+        "input": "rhlwwgbtnnvvvfdslwwyyyyb",
+        "target": "----m----m-mm-----m-mmm-"
+    },
+    {
+        "input": "nvcrnllllffzdrjdhhhhlrrw",
+        "target": "------mmm-m------mmm--m-"
+    },
+    {
+        "input": "nnvvwttkdxyggsssyyjqqnjn",
+        "target": "-m-m--m-----m-mm-m--m---"
+    },
+    {
+        "input": "ttnxlgbrllyfqxxxghhhtttn",
+        "target": "-m-------m----mm--mm-mm-"
+    },
+    {
+        "input": "gknyvvtggqrrrqqjjhklhrrr",
+        "target": "-----m--m--mm-m-m-----mm"
+    },
+    {
+        "input": "nvtzfkbpvvvvrhkkkggjjxss",
+        "target": "---------mmm---mm-m-m--m"
+    },
+    {
+        "input": "ppwwltkkxtbbvrrkkckkfhhf",
+        "target": "-m-m---m---m--m-m--m--m-"
+    },
+    {
+        "input": "dggppckjjjsgrkhhhggbwccb",
+        "target": "--m-m---mm-----mm-m---m-"
+    },
+    {
+        "input": "yttnfppfhbnggggwwbbtyddc",
+        "target": "--m---m-----mmm-m-m---m-"
+    },
+    {
+        "input": "ltllllnltdwszzffxlllwjjg",
+        "target": "---mmm-------m-m--mm--m-"
+    },
+    {
+        "input": "ssyzzznxxgsssyyvdxxwxvct",
+        "target": "-m--mm--m--mm-m---m-----"
+    },
+    {
+        "input": "gvzgvpnnntpwwdddykykkggg",
+        "target": "-------mm---m-mm----m-mm"
+    },
+    {
+        "input": "sxrjgtdnnnqrnnnfnqlllfff",
+        "target": "--------mm---mm----mm-mm"
+    },
+    {
+        "input": "nhcdkvssssjjpppcpjbhttll",
+        "target": "-------mmm-m-mm------m-m"
+    },
+    {
+        "input": "qfgzvvvvvqjqttyqkssllqww",
+        "target": "-----mmmm----m----m-m--m"
+    },
+    {
+        "input": "yryyzssqqbblllzswqxgggtn",
+        "target": "---m--m-m-m-mm------mm--"
+    },
+    {
+        "input": "ckkycwssspccctrrxzvbwwnn",
+        "target": "--m----mm--mm--m-----m-m"
+    },
+    {
+        "input": "nnnnnwccdnhvvxhvxnjjwnff",
+        "target": "-mmmm--m----m------m---m"
+    },
+    {
+        "input": "ddhhlddhhhbnqppfzwffyhhw",
+        "target": "-m-m--m-mm----m----m--m-"
+    },
+    {
+        "input": "jhhksslrqnnnxjggvvhhhksb",
+        "target": "--m--m----mm---m-m-mm---"
+    },
+    {
+        "input": "khrrffglrryyhhcljtnbhhhh",
+        "target": "---m-m---m-m-m-------mmm"
+    },
+    {
+        "input": "dsyyydvrddssggggdcsyyrxs",
+        "target": "---mm----m-m-mmm----m---"
+    },
+    {
+        "input": "szjfbdgzyyfftthhhlffppps",
+        "target": "---------m-m-m-mm--m-mm-"
+    },
+    {
+        "input": "xhjpcdbppvvvvvtgsssxddyn",
+        "target": "--------m-mmmm---mm--m--"
+    },
+    {
+        "input": "sbclddbbwhnnnrwwwzwdddkd",
+        "target": "-----m-m---mm--mm---mm--"
+    },
+    {
+        "input": "zzgbbjsyyyyhcpqfjjjrssxk",
+        "target": "-m--m---mmm------mm--m--"
+    },
+    {
+        "input": "ndddrrwxlwwccwtdpwsddddn",
+        "target": "--mm-m----m-m-------mmm-"
+    },
+    {
+        "input": "nqhnnqsqqqyxxrlrrrrxwccv",
+        "target": "----m---mm--m---mmm---m-"
+    },
+    {
+        "input": "sssxnkfggzzlvhhrnnnwccxb",
+        "target": "-mm-----m-m---m--mm--m--"
+    },
+    {
+        "input": "jbppsxwtppjttryqqccccttc",
+        "target": "---m-----m--m---m-mmm-m-"
+    },
+    {
+        "input": "fdknbwvlznnnnnhqllwqgggg",
+        "target": "----------mmmm---m---mmm"
+    },
+    {
+        "input": "jddnnncqbblzxpbbgywkkkkw",
+        "target": "--m-mm---m-----m----mmm-"
+    },
+    {
+        "input": "btyyslnhwwwsppcpllyyyysg",
+        "target": "---m-----mm--m---m-mmm--"
+    },
+    {
+        "input": "kllnnnnpzffjjkqnddczzprb",
+        "target": "--m-mmm---m-m----m--m---"
+    },
+    {
+        "input": "qbjyttlllskkppwqzzllwsvv",
+        "target": "-----m-mm--m-m---m-m---m"
+    },
+    {
+        "input": "tzzpzrrrtlnppdppcccczhth",
+        "target": "--m---mm----m--m-mmm----"
+    },
+    {
+        "input": "qntlygwwwwphhpgrrdvyyyww",
+        "target": "-------mmm--m---m---mm-m"
+    },
+    {
+        "input": "rssrjjrrllnjnbwwwjzcwwwv",
+        "target": "--m--m-m-m-----mm----mm-"
+    },
+    {
+        "input": "ryjsdpdddbbbbznzdfcwwwwx",
+        "target": "-------mm-mmm-------mmm-"
+    },
+    {
+        "input": "bbjtyyshjjgllsllthqqqhht",
+        "target": "-m---m---m--m--m---mm-m-"
+    },
+    {
+        "input": "vvqsxsswnggzzzssjjdxsnbb",
+        "target": "-m----m---m-mm-m-m-----m"
+    },
+    {
+        "input": "zsvrrkqqggkkjxrqqqzxxhhf",
+        "target": "----m--m-m-m----mm--m-m-"
+    },
+    {
+        "input": "kkzzpjnpsclkkkkkqqqzxhdx",
+        "target": "-m-m--------mmmm-mm-----"
+    },
+    {
+        "input": "vvrngffbbbrrpccywwwhvdvy",
+        "target": "-m----m-mm-m--m--mm-----"
+    },
+    {
+        "input": "qqvvwsygqqnnwpppyyhhlknw",
+        "target": "-m-m-----m-m--mm-m-m----"
+    },
+    {
+        "input": "nnwwdtxqqxffdddlllcfqkhn",
+        "target": "-m-m----m--m-mm-mm------"
+    },
+    {
+        "input": "bbbbhkjxxqqqfwttwdsyppxc",
+        "target": "-mmm----m-mm---m-----m--"
+    },
+    {
+        "input": "dccwglsspqrxxjkkkqqhhhxt",
+        "target": "--m----m----m--mm-m-mm--"
+    },
+    {
+        "input": "tcttpppbbbbttksqwcygzcpp",
+        "target": "---m-mm-mmm-m----------m"
+    },
+    {
+        "input": "kdwcwqlxddtttcvvkkkkkqhr",
+        "target": "---------m-mm--m-mmmm---"
+    },
+    {
+        "input": "ggppjcwzzwwlsfnhhhzzvcct",
+        "target": "-m-m----m-m-----mm-m--m-"
+    },
+    {
+        "input": "ggrzvvvllwvdddddlcysqpxr",
+        "target": "-m---mm-m---mmmm--------"
+    },
+    {
+        "input": "kkkyhhrppgdddgbgjpvhhhzj",
+        "target": "-mm--m--m--mm-------mm--"
+    },
+    {
+        "input": "ffdflcrjkykgvllkvvqqqqqq",
+        "target": "-m------------m--m-mmmmm"
+    },
+    {
+        "input": "srhcpjjrpvbkkkbbtnnptttt",
+        "target": "------m-----mm-m--m--mmm"
+    },
+    {
+        "input": "qyyrrghhwtczzzcqqsyyfhhj",
+        "target": "--m-m--m----mm--m--m--m-"
+    },
+    {
+        "input": "csxnvrjjltgpppggyxxssssv",
+        "target": "-------m----mm-m--m-mmm-"
+    },
+    {
+        "input": "rrxwgsxhhhwwttggvllyrrny",
+        "target": "-m------mm-m-m-m--m--m--"
+    },
+    {
+        "input": "jzrrppppbwjrcdkppplgggcd",
+        "target": "---m-mmm--------mm--mm--"
+    },
+    {
+        "input": "qrvlllcjssssxllvjzqqkcct",
+        "target": "----mm---mmm--m----m--m-"
+    },
+    {
+        "input": "pprhxxffzvvvbrwfffzffvrr",
+        "target": "-----m-m--mm----mm--m--m"
+    },
+    {
+        "input": "tkxspppdddrrhqnssbbykvll",
+        "target": "-----mm-mm-m----m-m----m"
+    },
+    {
+        "input": "bggfffwwzyfswkjjjrbtxccc",
+        "target": "--m-mm-m-------mm-----mm"
+    },
+    {
+        "input": "ggvvcxwsssbvllkkkygykkbk",
+        "target": "-m-m----mm---m-mm----m--"
+    },
+    {
+        "input": "fzssssslxxhcvzcvbblzzcdd",
+        "target": "---mmmm--m-------m--m--m"
+    },
+    {
+        "input": "qddkkcxxdxcccccppkptskvn",
+        "target": "--m-m--m---mmmm-m-------"
+    },
+    {
+        "input": "vvxxkkrllzsdnnnnnpycthvx",
+        "target": "-m-m-m--m----mmmm-------"
+    },
+    {
+        "input": "lkhwnnxxgzkkwwjkkyyyfllj",
+        "target": "-----m-m---m-m--m-mm--m-"
+    },
+    {
+        "input": "ppfzsksspssvvbsssxggqqsr",
+        "target": "-m-----m--m-m--mm--m-m--"
+    },
+    {
+        "input": "chhxxxnyyvpkkfdddbhpplnj",
+        "target": "--m-mm--m---m--mm---m---"
+    },
+    {
+        "input": "rjjjnnwsbnqqttxxkktbcwwg",
+        "target": "--mm-m-----m-m-m-m----m-"
+    },
+    {
+        "input": "xtpbchhgxxxkkkdkklkkkgks",
+        "target": "------m--mm-mm--m--mm---"
+    },
+    {
+        "input": "nnxxsszpphfgkrffyyffkfvv",
+        "target": "-m-m-m--m------m-m-m---m"
+    },
+    {
+        "input": "nnqqqqzypppxrrnvskgkkdfv",
+        "target": "-m-mmm---mm--m------m---"
+    },
+    {
+        "input": "zzddqttqxrrrrgqnnnykwgdp",
+        "target": "-m-m--m---mmm---mm------"
+    },
+    {
+        "input": "vggyrttdgzzzjffddxxxdfwt",
+        "target": "--m---m---mm--m-m-mm----"
+    },
+    {
+        "input": "bbfnnnxzxvlfggclttsssnrr",
+        "target": "-m--mm-------m---m-mm--m"
+    },
+    {
+        "input": "djccsttthssfjjjqqqblgdkd",
+        "target": "---m--mm--m--mm-mm------"
+    },
+    {
+        "input": "rxxxhhsfwpplggddddkzxcsv",
+        "target": "--mm-m----m--m-mmm------"
+    },
+    {
+        "input": "htyxnwryyccyyrrzdghhhnnn",
+        "target": "--------m-m-m-m----mm-mm"
+    },
+    {
+        "input": "xdllnwhgrffssshkkklbbstt",
+        "target": "---m------m-mm--mm--m--m"
+    },
+    {
+        "input": "cyvnsyyzznnqqqzzzglvnggv",
+        "target": "------m-m-m-mm-mm-----m-"
+    },
+    {
+        "input": "xzkkpppxxrllcccqpzhhjtrx",
+        "target": "---m-mm-m--m-mm----m----"
+    },
+    {
+        "input": "hrzxsggjrrxrqvggkbbbbbbn",
+        "target": "------m--m-----m--mmmmm-"
+    },
+    {
+        "input": "vvvfjtnssyvvsdzzzybpppcv",
+        "target": "-mm-----m--m---mm---mm--"
+    },
+    {
+        "input": "bcllhhhhlzzppxwfnrjjjwqw",
+        "target": "---m-mmm--m-m------mm---"
+    },
+    {
+        "input": "wwwzxwflxkktgggvgyyqtlll",
+        "target": "-mm-------m--mm---m---mm"
+    },
+    {
+        "input": "wytcccckbqzzddwhhvhhrrwd",
+        "target": "----mmm----m-m--m--m-m--"
+    },
+    {
+        "input": "vldddbdwsszssvxhjjjhbbww",
+        "target": "---mm----m--m----mm--m-m"
+    },
+    {
+        "input": "jsttjjtzyyjjfftbbbllrhtz",
+        "target": "---m-m---m-m-m--mm-m----"
+    },
+    {
+        "input": "cdrghzzzqrrrrsssrxtwghll",
+        "target": "------mm--mmm-mm-------m"
+    },
+    {
+        "input": "ztxxttgnrrqqhhhfxvvbdqqf",
+        "target": "---m-m---m-m-mm---m---m-"
+    },
+    {
+        "input": "nnwpppbbbbwkkqvxwwnfyvyh",
+        "target": "-m--mm-mmm--m----m------"
+    },
+    {
+        "input": "khhhhspfbvjynvdddjxxbbpp",
+        "target": "--mmm----------mm--m-m-m"
+    },
+    {
+        "input": "qhhslyywwzzxfjfflqrrrbbf",
+        "target": "--m---m-m-m----m---mm-m-"
+    },
+    {
+        "input": "lrszjggzccjjbppppkccytss",
+        "target": "------m--m-m--mmm--m---m"
+    },
+    {
+        "input": "ffxxdxcxlggkccpppjjjnjyn",
+        "target": "-m-m------m--m-mm-mm----"
+    },
+    {
+        "input": "ykffjjxwlvlyyykxffnnngnn",
+        "target": "---m-m------mm---m-mm--m"
+    },
+    {
+        "input": "pppppjjbzzlgvzxvkkygjhhc",
+        "target": "-mmmm-m--m-------m----m-"
+    },
+    {
+        "input": "blttxxvksljhhynnpprbbbdd",
+        "target": "---m-m------m--m-m--mm-m"
+    },
+    {
+        "input": "ccbvwyrxxggbbqccxjjjbnnl",
+        "target": "-m------m-m-m--m--mm--m-"
+    },
+    {
+        "input": "clllqxxxxbqbylllcxbkffdk",
+        "target": "--mm--mmm-----mm-----m--"
+    },
+    {
+        "input": "jdtdvnpggvvvjjrrylvvvdww",
+        "target": "--------m-mm-m-m---mm--m"
+    },
+    {
+        "input": "pjjjtvvvvbsssjdncnztjcnn",
+        "target": "--mm--mmm--mm----------m"
+    },
+    {
+        "input": "qqqhhpplcccxppxgpbwwdcdj",
+        "target": "-mm-m-m--mm--m-----m----"
+    },
+    {
+        "input": "qhhhssjcshhhqpppghjjzchx",
+        "target": "--mm-m----mm--mm---m----"
+    },
+    {
+        "input": "pzqqhqtnvgklllvrwwwwjppp",
+        "target": "---m--------mm---mmm--mm"
+    },
+    {
+        "input": "fdddfzzggbgjsswhssswjwwv",
+        "target": "--mm--m-m----m---mm---m-"
+    },
+    {
+        "input": "dnnwcvvstyyyqqsbccpdddkf",
+        "target": "--m---m---mm-m---m--mm--"
+    },
+    {
+        "input": "gvynzgggrrrcxqxhjjxlxxxx",
+        "target": "------mm-mm------m---mmm"
+    },
+    {
+        "input": "hjpppzgzzzzzqqqtbqpnxhjt",
+        "target": "---mm---mmmm-mm---------"
+    },
+    {
+        "input": "hwbtnnzzbppppqgjwwpqqxzz",
+        "target": "-----m-m--mmm----m--m--m"
+    },
+    {
+        "input": "cssjhhldddrrznfnnfbccskk",
+        "target": "--m--m--mm-m----m---m--m"
+    },
+    {
+        "input": "xtxxdvwbhhkhhzppvvddccyy",
+        "target": "---m-----m--m--m-m-m-m-m"
+    },
+    {
+        "input": "lkkwyzzzzkccfccwbzvprrzz",
+        "target": "--m---mmm--m--m------m-m"
+    },
+    {
+        "input": "tfffqqqhjttppcjpqlvsttty",
+        "target": "--mm-mm---m-m--------mm-"
+    },
+    {
+        "input": "ylwtnyyyxsszssllqxyyzzbb",
+        "target": "------mm--m--m-m---m-m-m"
+    },
+    {
+        "input": "ffpxxnwwnzqvvkktjpwwhggg",
+        "target": "-m--m--m----m-m----m--mm"
+    },
+    {
+        "input": "ztqqhrrlllrntvvvbhzzkjjf",
+        "target": "---m--m-mm----mm---m--m-"
+    },
+    {
+        "input": "sjccszxwffkkkpppssslgwzy",
+        "target": "---m-----m-mm-mm-mm-----"
+    },
+    {
+        "input": "pppxlssssxdhjyyvpjddwxxp",
+        "target": "-mm---mmm-----m----m--m-"
+    },
+    {
+        "input": "jwbbbbbdydxptkvvvlffllwg",
+        "target": "---mmmm--------mm--m-m--"
+    },
+    {
+        "input": "cczssdcwllcrrwzzjhgwwddd",
+        "target": "-m--m----m--m--m----m-mm"
+    },
+    {
+        "input": "nnvpvvvvkkfzghssxpfttcqq",
+        "target": "-m---mmm-m-----m----m--m"
+    },
+    {
+        "input": "nqqpppddcssssxrjqvjkvwwd",
+        "target": "--m-mm-m--mmm---------m-"
+    },
+    {
+        "input": "kwpxxxxccfzdslbchhlllltw",
+        "target": "----mmm-m--------m-mmm--"
+    },
+    {
+        "input": "jjjhvzzjwpttfwpvjjbkhhhh",
+        "target": "-mm---m----m-----m---mmm"
+    },
+    {
+        "input": "ffxxhnnnzxjqhjqnnzzttvww",
+        "target": "-m-m--mm--------m-m-m--m"
+    },
+    {
+        "input": "vvgddggggnzjctvxpywwwwyc",
+        "target": "-m--m-mmm----------mmm--"
+    },
+    {
+        "input": "crrzzsttssstyyyyvxdfwdyw",
+        "target": "--m-m--m-mm--mmm--------"
+    },
+    {
+        "input": "yyyynngnkkwkkkfghzyjrppl",
+        "target": "-mmm-m---m--mm--------m-"
+    },
+    {
+        "input": "yvhdzzzkkzgggwwhccnzzlzb",
+        "target": "-----mm-m--mm-m--m--m---"
+    },
+    {
+        "input": "jjcggcbqqqvnpjjygggvssjz",
+        "target": "-m--m---mm----m--mm--m--"
+    },
+    {
+        "input": "dfrstqqqghhhsvrrrxxsshpj",
+        "target": "------mm--mm---mm-m-m---"
+    },
+    {
+        "input": "rrrzbnxyydddghnnzyxshddd",
+        "target": "-mm-----m-mm---m------mm"
+    },
+    {
+        "input": "qqlbvngchxwwggddqqffcccy",
+        "target": "-m---------m-m-m-m-m-mm-"
+    },
+    {
+        "input": "svffgggppwqqcjttgffgkrgg",
+        "target": "---m-mm-m--m---m--m----m"
+    },
+    {
+        "input": "xcssttpwsyyjjdppdttpggcc",
+        "target": "---m-m----m-m--m--m--m-m"
+    },
+    {
+        "input": "dnqkbhcbcvcccczffbbbkknn",
+        "target": "-----------mmm--m-mm-m-m"
+    },
+    {
+        "input": "bxxxvkggggdgrrppwwzcqswk",
+        "target": "--mm---mmm---m-m-m------"
+    },
+    {
+        "input": "ddvnnjsshhppchttnngssqpv",
+        "target": "-m--m--m-m-m---m-m--m---"
+    },
+    {
+        "input": "httfjjjyywwrnddqqhbbrsjd",
+        "target": "--m--mm-m-m---m-m--m----"
+    },
+    {
+        "input": "bbbbckvjgssqqjrlcbqqggnn",
+        "target": "-mmm------m-m------m-m-m"
+    },
+    {
+        "input": "brpzvfffddddjxxydznnxqll",
+        "target": "------mm-mmm--m----m---m"
+    },
+    {
+        "input": "sskjjjjybbpsqzzzkqpyyhlb",
+        "target": "-m--mmm--m----mm----m---"
+    },
+    {
+        "input": "hssrprrskksppvvvvxvhyydk",
+        "target": "--m---m--m--m-mmm----m--"
+    },
+    {
+        "input": "fffvvrddvvttcwltlkwvrrvv",
+        "target": "-mm-m--m-m-m---------m-m"
+    },
+    {
+        "input": "vzsgzzzrwhjrgyyyyyyqqjxl",
+        "target": "-----mm-------mmmmm-m---"
+    },
+    {
+        "input": "vhbjjrgnsssxxhhslpkkkhhc",
+        "target": "----m----mm-m-m----mm-m-"
+    },
+    {
+        "input": "bbdzgllfqtppflpxzzfffsss",
+        "target": "-m----m----m-----m-mm-mm"
+    },
+    {
+        "input": "yywvvlyykpdcffjbbrwggggr",
+        "target": "-m--m--m-----m--m---mmm-"
+    },
+    {
+        "input": "cszzwvwchbbpddkkyysssppq",
+        "target": "---m------m--m-m-m-mm-m-"
+    },
+    {
+        "input": "gpqxxccccytxxcqqsljttyyc",
+        "target": "----m-mmm---m--m----m-m-"
+    },
+    {
+        "input": "ffbpphlvfdfhhhhxwwllyyfw",
+        "target": "-m--m-------mmm--m-m-m--"
+    },
+    {
+        "input": "qllyddrjpjffggppwwcddfxx",
+        "target": "--m--m-----m-m-m-m--m--m"
+    },
+    {
+        "input": "nftttffbbyzfqttnwggvvccn",
+        "target": "---mm-m-m-----m---m-m-m-"
+    },
+    {
+        "input": "lrkjjjjvvggzjrrhdjjyjbqq",
+        "target": "----mmm-m-m---m---m----m"
+    },
+    {
+        "input": "gklllgwzxdhttttkrjjjgjbb",
+        "target": "---mm-------mmm---mm---m"
+    },
+    {
+        "input": "lrnyyttrrjxxxggfdllqqtgj",
+        "target": "----m-m-m--mm-m---m-m---"
+    },
+    {
+        "input": "dbhgggxtcccccjllbryycgyn",
+        "target": "----mm---mmmm--m---m----"
+    },
+    {
+        "input": "ttwnpkkkkytcwttxxyhwwccz",
+        "target": "-m----mmm-----m-m---m-m-"
+    },
+    {
+        "input": "nnnncqqbbxcdrrqjcccwlwrl",
+        "target": "-mmm--m-m----m---mm-----"
+    },
+    {
+        "input": "kkckxxxxbdrzxxzzsxxxcwsz",
+        "target": "-m---mmm-----m-m--mm----"
+    },
+    {
+        "input": "rrrdvvrrnxxczssfwwxwzzvz",
+        "target": "-mm--m-m--m---m--m---m--"
+    },
+    {
+        "input": "pppyyqqthnwnnhhlwwncckqx",
+        "target": "-mm-m-m-----m-m--m--m---"
+    },
+    {
+        "input": "vvvzyyyghjjlgxxxffxwxqjq",
+        "target": "-mm--mm---m---mm-m------"
+    },
+    {
+        "input": "dddtnzzjjgjdyjjjzzztnlnk",
+        "target": "-mm---m-m-----mm-mm-----"
+    },
+    {
+        "input": "ndprdddbdddbyttcqsqzzzzk",
+        "target": "-----mm--mm---m-----mmm-"
+    },
+    {
+        "input": "pppxvvjlsscccbctkhbcgsss",
+        "target": "-mm--m---m-mm---------mm"
+    },
+    {
+        "input": "bbllbrzddppnxgzzzztfbzzj",
+        "target": "-m-m----m-m----mmm----m-"
+    },
+    {
+        "input": "fqxxxnnzzjnwwvttlyssvffl",
+        "target": "---mm-m-m---m--m---m--m-"
+    },
+    {
+        "input": "gptvvxckdbbhhhnccfqnnxxx",
+        "target": "----m-----m-mm--m---m-mm"
+    },
+    {
+        "input": "llrywxschllhhcltttttkbbg",
+        "target": "-m--------m-m---mmmm--m-"
+    },
+    {
+        "input": "prgyykkrrkddwtgjjylfffpp",
+        "target": "----m-m-m--m----m---mm-m"
+    },
+    {
+        "input": "xxccqkjjjynzfffybrrptssn",
+        "target": "-m-m---mm----mm---m---m-"
+    },
+    {
+        "input": "qnwsrbbbppplfyyyzsstwsww",
+        "target": "------mm-mm---mm--m----m"
+    },
+    {
+        "input": "zzznlllyyhddzgpppxkhctww",
+        "target": "--m--mm-m--m---mm------m"
+    },
+    {
+        "input": "kkcclxqtllldhhdwccclyypc",
+        "target": "-m-m-----mm--m---mm--m--"
+    },
+    {
+        "input": "glppppvvpppwdyhrzydvdggg",
+        "target": "---mmm-m-mm-----------mm"
+    },
+    {
+        "input": "zzbbnwxkxxdkxzkbbbwvvvbb",
+        "target": "-m-m-----m------mm--mm-m"
+    },
+    {
+        "input": "ldjjnlkvhdbhvvvdpyyfffff",
+        "target": "---m---------mm---m-mmmm"
+    },
+    {
+        "input": "qqqrnvvjhvlkrrgrddkkkxxh",
+        "target": "-mm---m------m---m-mm-m-"
+    },
+    {
+        "input": "yyyzznnlrkbbtrwplzjjnnxx",
+        "target": "-mm-m-m----m-------m-m-m"
+    },
+    {
+        "input": "sbkzzrrlljbrkxysxxxxttnn",
+        "target": "----m-m-m--------mmm-m-m"
+    },
+    {
+        "input": "vdcvsqllnnnddrppppftbgvv",
+        "target": "-------m-mm-m--mmm-----m"
+    },
+    {
+        "input": "rkkhhfjjqqrrrrxjhzccltcb",
+        "target": "--m-m--m-m-mmm-----m----"
+    },
+    {
+        "input": "jggqpppwbzzqqwwshhsdppjk",
+        "target": "--m--mm---m-m-m--m---m--"
+    },
+    {
+        "input": "tpddghhnlngggvpprccnbbbx",
+        "target": "---m--m----mm--m--m--mm-"
+    },
+    {
+        "input": "llvqlhbbxxddstdddjjwhhxt",
+        "target": "-m-----m-m-m---mm-m--m--"
+    },
+    {
+        "input": "jjjjgfccssjnbpvjxppydddr",
+        "target": "-mmm---m-m--------m--mm-"
+    },
+    {
+        "input": "zshzkkfdddzvtkjrrgqqffff",
+        "target": "-----m--mm------m--m-mmm"
+    },
+    {
+        "input": "txwvvvbbhqzzqnvppxkccccn",
+        "target": "----mm-m---m----m---mmm-"
+    },
+    {
+        "input": "wyllcjjgghzkdddyywwdggbr",
+        "target": "---m--m-m----mm-m-m--m--"
+    },
+    {
+        "input": "rhcglpslllllllrykwwjjzcv",
+        "target": "--------mmmmmm----m-m---"
+    },
+    {
+        "input": "hzzdqnggghhqvtthhsvbbbxs",
+        "target": "--m----mm-m---m-m---mm--"
+    },
+    {
+        "input": "vwllwppcqqvvnrrrbttddpxz",
+        "target": "---m--m--m-m--mm--m-m---"
+    },
+    {
+        "input": "ykqjttbcbbsjjzzzfgssjzzz",
+        "target": "-----m---m--m-mm---m--mm"
+    },
+    {
+        "input": "wnnnthyvvwdvdhccccvvvjvr",
+        "target": "--mm----m------mmm-mm---"
+    },
+    {
+        "input": "lgvqbbsjqttjdvvhhsssvhhh",
+        "target": "-----m----m---m-m-mm--mm"
+    },
+    {
+        "input": "lxlzdsskkkknngnzqssstnww",
+        "target": "------m-mmm-m-----mm---m"
+    },
+    {
+        "input": "ppfrrrrvttfzqdbbnhhsyyzw",
+        "target": "-m--mmm--m-----m--m--m--"
+    },
+    {
+        "input": "nqwssffzznzldhhhbtttffjc",
+        "target": "----m-m-m-----mm--mm-m--"
+    },
+    {
+        "input": "xxkkcpwhwffffzhjyggkkkcq",
+        "target": "-m-m------mmm-----m-mm--"
+    },
+    {
+        "input": "hpfqrcxyyrqqqkkkxxxtwcck",
+        "target": "--------m--mm-mm-mm---m-"
+    },
+    {
+        "input": "trnnnnxjtgggbbyvwsgcfnnn",
+        "target": "---mmm----mm-m--------mm"
+    },
+    {
+        "input": "lvylssskzllffktrrddvzrrr",
+        "target": "-----mm---m-m---m-m---mm"
+    },
+    {
+        "input": "zzztvvjhjnxwwwzdrgggwddr",
+        "target": "-mm--m------mm----mm--m-"
+    },
+    {
+        "input": "kpzddjgfxxxsccccvjflllbs",
+        "target": "----m----mm--mmm----mm--"
+    },
+    {
+        "input": "cctvzvvpjjjfzzzxppknqhgg",
+        "target": "-m----m--mm--mm--m-----m"
+    },
+    {
+        "input": "ztqgggjqqqqqjvwwwnqsxhyh",
+        "target": "----mm--mmmm---mm-------"
+    },
+    {
+        "input": "phhlzgyzttttvvvvxqfzxxpy",
+        "target": "--m------mmm-mmm-----m--"
+    },
+    {
+        "input": "sghhyyxkkkssfsddkkkpjrlw",
+        "target": "---m-m--mm-m---m-mm-----"
+    },
+    {
+        "input": "ljrrppvnnnccyllxdfffytry",
+        "target": "---m-m--mm-m--m---mm----"
+    },
+    {
+        "input": "yvvddllbbtzsblnjyysszyyy",
+        "target": "--m-m-m-m--------m-m--mm"
+    },
+    {
+        "input": "wwrwznzrjwqjjjjjjcccqqjf",
+        "target": "------------mmmmm-mm-m--"
+    },
+    {
+        "input": "dddddffwllgxzjjhznnqcxwn",
+        "target": "-mmmm-m--m----m---m-----"
+    },
+    {
+        "input": "ggfgytdtffffttyypdddyclc",
+        "target": "-m-------mmm-m-m--mm----"
+    },
+    {
+        "input": "hrkddpppjjgpbbccccbxjwql",
+        "target": "----m-mm-m---m-mmm------"
+    },
+    {
+        "input": "vwwftddyyyrgzzzcywfxqqqx",
+        "target": "--m---m-mm---mm------mm-"
+    },
+    {
+        "input": "bzcxxxbjsxtttktbnnncgxxx",
+        "target": "----mm-----mm----mm---mm"
+    },
+    {
+        "input": "xppyrrndddggvttthcrwwxbk",
+        "target": "--m--m--mm-m--mm----m---"
+    },
+    {
+        "input": "pppcxxkdwwjvhznzrzhhhhhb",
+        "target": "-mm--m---m---------mmmm-"
+    },
+    {
+        "input": "tddgzggfwwwhrnnnylllcsfc",
+        "target": "--m---m--mm---mm--mm----"
+    },
+    {
+        "input": "rqcccknnnttcpvyfffbgwvvp",
+        "target": "---mm--mm-m-----mm----m-"
+    },
+    {
+        "input": "vvddlvjjjdbldnxrqsslllgg",
+        "target": "-m-m---mm---------m-mm-m"
+    },
+    {
+        "input": "gvvvqfffjjjyvvbdjbypkggx",
+        "target": "--mm--mm-mm--m--------m-"
+    },
+    {
+        "input": "tgcxsswppnnnnnkzflwccvvp",
+        "target": "-----m--m-mmmm------m-m-"
+    },
+    {
+        "input": "ywsyxvsssjlffcjjjbbbffdk",
+        "target": "-------mm---m--mm-mm-m--"
+    },
+    {
+        "input": "zzbbbbglhxfslwfvvzxxhhhl",
+        "target": "-m-mmm----------m--m-mm-"
+    },
+    {
+        "input": "hpdjbrvvqxgggllggjggggjf",
+        "target": "-------m---mm-m-m--mmm--"
+    },
+    {
+        "input": "wrccjjycqddddddcnsspctqv",
+        "target": "---m-m----mmmmm---m-----"
+    },
+    {
+        "input": "bzkknbbnnffkvvggvvvpntny",
+        "target": "---m--m-m-m--m-m-mm-----"
+    },
+    {
+        "input": "bjjxjjkdfcfzzqqvvvrrhhxd",
+        "target": "--m--m------m-m-mm-m-m--"
+    },
+    {
+        "input": "qqqgqqgggqfxdppcxhdzzyrr",
+        "target": "-mm--m-mm-----m-----m--m"
+    },
+    {
+        "input": "jcvvtrrljddvggqqqbpfykkk",
+        "target": "---m--m---m--m-mm-----mm"
+    },
+    {
+        "input": "jjhzfnrvtqqppppggswwwlcw",
+        "target": "-m--------m-mmm-m--mm---"
+    },
+    {
+        "input": "dbbfftqqdxxjhslllxrtvvvw",
+        "target": "--m-m--m--m----mm----mm-"
+    },
+    {
+        "input": "yxzjknyyssdxxxxsssgcdqzz",
+        "target": "-------m-m--mmm-mm-----m"
+    },
+    {
+        "input": "dqqvvlbcjjjjkkbgtqdtjjjv",
+        "target": "--m-m----mmm-m-------mm-"
+    },
+    {
+        "input": "ppfpptwgkbjcddhhsthhhhhq",
+        "target": "-m--m--------m-m---mmmm-"
+    },
+    {
+        "input": "rtffvvvdbbbyyfcnzgcckfrr",
+        "target": "---m-mm--mm-m------m---m"
+    },
+    {
+        "input": "fsfdfffbpfzpbkpppppphhfc",
+        "target": "-----mm--------mmmmm-m--"
+    },
+    {
+        "input": "rbbffvqbsppvrrrqqbrrrtzc",
+        "target": "--m-m-----m--mm-m--mm---"
+    },
+    {
+        "input": "pbpqjjjjbbbbsgxxxpfxlqln",
+        "target": "-----mmm-mmm---mm-------"
+    },
+    {
+        "input": "llbbbwvwppkkbspffzddtppk",
+        "target": "-m-mm----m-m----m--m--m-"
+    },
+    {
+        "input": "pjjjjbdhgglfhhgrpssdqqxx",
+        "target": "--mmm----m---m----m--m-m"
+    },
+    {
+        "input": "sncqqyyyyysrzzjycbfwppww",
+        "target": "----m-mmmm---m-------m-m"
+    },
+    {
+        "input": "vvxbzkzzjdkhhxxyvcccjjyy",
+        "target": "-m-----m----m-m---mm-m-m"
+    },
+    {
+        "input": "gggxgnccqqwxxrkpptrvlttt",
+        "target": "-mm----m-m--m---m-----mm"
+    },
+    {
+        "input": "sstkhhpppvllvvbbswwrsstz",
+        "target": "-----m-mm--m-m-m--m--m--"
+    },
+    {
+        "input": "nnncyjbpplxtggggcwnhhhfb",
+        "target": "-mm-----m----mmm----mm--"
+    },
+    {
+        "input": "kkshrvvtckkjhhbbfffkqrrv",
+        "target": "-m----m---m--m-m-mm---m-"
+    },
+    {
+        "input": "fpcctjjjzbkrqffgggnndtww",
+        "target": "---m--mm------m-mm-m---m"
+    },
+    {
+        "input": "jybzhhgysppbbbbwrrrfvggz",
+        "target": "-----m----m-mmm--mm---m-"
+    },
+    {
+        "input": "kfnnfnkktbbbbwxxjzghjjnn",
+        "target": "---m---m--mmm--m-----m-m"
+    },
+    {
+        "input": "yjxhdppqnwwwgfftlllgbbbt",
+        "target": "------m---mm--m--mm--mm-"
+    },
+    {
+        "input": "qqqqtcvznzlcknnnrcqqsyyy",
+        "target": "-mmm----------mm---m--mm"
+    },
+    {
+        "input": "qtsbrssdkggwwhhdqjprrrrr",
+        "target": "------m---m-m-m-----mmmm"
+    },
+    {
+        "input": "dddscjnssfhvylllhwwwgggj",
+        "target": "--m-----m-----mm--mm-mm-"
+    },
+    {
+        "input": "rqqklqqlbghdhhhgggnjjdpp",
+        "target": "--m---m------mm-mm--m--m"
+    },
+    {
+        "input": "xxppksdyssphdggvkkzffbbb",
+        "target": "-m-m-----m----m--m--m-mm"
+    },
+    {
+        "input": "xxxfnttthcgllyyzdvvvnlpl",
+        "target": "-mm---mm----m-m---mm----"
+    },
+    {
+        "input": "cnnnzvrdthhxlllfjshhppyy",
+        "target": "--mm------m--mm----m-m-m"
+    },
+    {
+        "input": "vttdzhccwwcdplpppyyyqfrr",
+        "target": "--m----m-m-----mm-mm---m"
+    },
+    {
+        "input": "ybbkkccszpcczpplqvsslfff",
+        "target": "--m-m-m----m--m----m--mm"
+    },
+    {
+        "input": "vnnnxqtgkbnnbncxppggyyyy",
+        "target": "--mm-------m-----m-m-mmm"
+    },
+    {
+        "input": "ffffxqpbqkjzzzltddtlxxxw",
+        "target": "-mmm--------mm---m---mm-"
+    },
+    {
+        "input": "fsvvvqsdgnnnnntfcydpjjbb",
+        "target": "---mm-----mmmm-------m-m"
+    },
+    {
+        "input": "xhzjddnnnbtppwwwwyrrqwcw",
+        "target": "-----m-mm---m-mmm--m----"
+    },
+    {
+        "input": "lvghhkbbvvvzzgrffddyykls",
+        "target": "----m--m-mm-m---m-m-m---"
+    },
+    {
+        "input": "dsshczzvvvxlxvvzllrcctzz",
+        "target": "--m---m-mm----m--m--m--m"
+    },
+    {
+        "input": "rrjbkyyyhhtvwdddppphysfy",
+        "target": "-m----mm-m----mm-mm-----"
+    },
+    {
+        "input": "vvvsyssfqqrtlllpptswwsfr",
+        "target": "-mm---m--m---mm-m---m---"
+    },
+    {
+        "input": "kkkflljvddqrcbjcchhhzzpd",
+        "target": "-mm--m---m------m-mm-m--"
+    },
+    {
+        "input": "qqnnrrrttxllnsbyyzjwvvql",
+        "target": "-m-m-mm-m--m----m----m--"
+    },
+    {
+        "input": "wjtsnhdfffkkhbwwwwqrrryj",
+        "target": "--------mm-m---mmm--mm--"
+    },
+    {
+        "input": "ggbxxxxxlzqqkxqqwkjcybff",
+        "target": "-m--mmmm---m---m-------m"
+    },
+    {
+        "input": "qzsszzzggfrqppkyypppdgfn",
+        "target": "---m-mm-m----m--m-mm----"
+    },
+    {
+        "input": "qbbhhhsggzbcttttcnnxhfqc",
+        "target": "--m-mm--m----mmm--m-----"
+    },
+    {
+        "input": "sxqqqvrjrvddddxxlddcfkkr",
+        "target": "---mm------mmm-m--m---m-"
+    },
+    {
+        "input": "hhffcrdddqpztvbcrrxxxhht",
+        "target": "-m-m---mm--------m-mm-m-"
+    },
+    {
+        "input": "dnydgnncchhhrrrffwpbtthj",
+        "target": "------m-m-mm-mm-m----m--"
+    },
+    {
+        "input": "ppgggzqqljpcncbbxrqqqzff",
+        "target": "-m-mm--m-------m---mm--m"
+    },
+    {
+        "input": "xyplxxxxbcctttjtthjllkrn",
+        "target": "-----mmm--m-mm--m---m---"
+    },
+    {
+        "input": "jnnqqyyyrrjvvjlvggjkdjll",
+        "target": "--m-m-mm-m--m----m-----m"
+    },
+    {
+        "input": "wwwkkjhhdjjfxbbbzjjcqkzj",
+        "target": "-mm-m--m--m---mm--m-----"
+    },
+    {
+        "input": "jjggggfdddnyrrjrssyqzzqd",
+        "target": "---mmm--mm---m---m---m--"
+    },
+    {
+        "input": "xttggkxxxxlhccrrrvwfkxgl",
+        "target": "--m-m--mmm---m-mm-------"
+    },
+    {
+        "input": "xfffjytvlcffgcczdddlllft",
+        "target": "--mm-------m--m--mm-mm--"
+    },
+    {
+        "input": "yvllllkxwyykqggggrqcchcx",
+        "target": "---mmm----m---mmm---m---"
+    },
+    {
+        "input": "rrglddpppqqwvhkkdcbbzzxb",
+        "target": "-m---m-mm-m----m---m-m--"
+    },
+    {
+        "input": "kkvccrslcppbbyyfffwvddyl",
+        "target": "-m--m-----m-m-m-mm---m--"
+    },
+    {
+        "input": "wywssllzzzldptzzzzyfppgr",
+        "target": "----m-m-mm-----mmm---m--"
+    },
+    {
+        "input": "cchhggqtttttdlkykvwjsspw",
+        "target": "-m-m-m--mmmm---------m--"
+    },
+    {
+        "input": "fxxxwhhtttzrxlvttnbjjttk",
+        "target": "--mm--m-mm------m---m-m-"
+    },
+    {
+        "input": "kbkkkkzxtsxhdnnrrrrjdggc",
+        "target": "---mmm--------m-mmm---m-"
+    },
+    {
+        "input": "kvbbhkkjxkklcttlllfnnrss",
+        "target": "---m--m---m---m-mm--m--m"
+    },
+    {
+        "input": "gwzzzhszkzxwwwwyccvvhnnf",
+        "target": "---mm-------mmm--m-m--m-"
+    },
+    {
+        "input": "hwrllllppsjjfgvvyncjzzyy",
+        "target": "----mmm-m--m---m-----m-m"
+    },
+    {
+        "input": "xjjccbchzzglpgfffrrxddkk",
+        "target": "--m-m----m-----mm-m--m-m"
+    },
+    {
+        "input": "tlskgbbqqpppyyvyyyszppyc",
+        "target": "------m-m-mm-m--mm---m--"
+    },
+    {
+        "input": "yyfkssstrvhxxpsstttwwrjj",
+        "target": "-----mm-----m--m-mm-m--m"
+    },
+    {
+        "input": "bbddcffllpgssdfcwwzzzyxs",
+        "target": "-m-m--m-m---m----m-mm---"
+    },
+    {
+        "input": "ddvzfwzzwwrrrtfhhllzyzxx",
+        "target": "-m-----m-m-mm---m-m----m"
+    },
+    {
+        "input": "ylrxhhhrbbjkrrqqqqxxtyxy",
+        "target": "-----mm--m---m-mmm-m----"
+    },
+    {
+        "input": "llllkkxtcqndylggspppqqsy",
+        "target": "-mmm-m---------m--mm-m--"
+    },
+    {
+        "input": "bvrlhhvgwppdbhhhwlxxxxnn",
+        "target": "-----m----m---mm---mmm-m"
+    },
+    {
+        "input": "cctnnrrrxfxxksccxvvqjxnn",
+        "target": "-m--m-mm---m---m--m----m"
+    },
+    {
+        "input": "tdddfjlbhnxxhhgthvzzzvvv",
+        "target": "--mm-------m-m-----mm-mm"
+    },
+    {
+        "input": "qqhffhhypzzyrztjhhnnnqqw",
+        "target": "-m--m-m---m------m-mm-m-"
+    },
+    {
+        "input": "kkkqqgjvqbxydyyyyllvhhkp",
+        "target": "-mm-m---------mmm-m--m--"
+    },
+    {
+        "input": "qyyykkdpnngwkbqqqtdbbfww",
+        "target": "--mm-m---m-----mm---m--m"
+    },
+    {
+        "input": "zqjjjjqjvyffqxyssspdgggd",
+        "target": "---mmm-----m----mm---mm-"
+    },
+    {
+        "input": "jqflllslgggppwxrrnggrldd",
+        "target": "----mm---mm-m---m--m---m"
+    },
+    {
+        "input": "zzzssyxssswwcwznzjkkkjgp",
+        "target": "-mm-m---mm-m-------mm---"
+    },
+    {
+        "input": "qqrrhtfyttbbxwfhghyygggg",
+        "target": "-m-m-----m-m-------m-mmm"
+    },
+    {
+        "input": "rttrrddddnblrvqqkqqqvbhy",
+        "target": "--m-m-mmm------m--mm----"
+    },
+    {
+        "input": "jsggggjnssygyyytnfhnnddx",
+        "target": "---mmm---m---mm-----m-m-"
+    },
+    {
+        "input": "bbbpbvvzpsnnrryyxxqfjssy",
+        "target": "-mm---m----m-m-m-m----m-"
+    },
+    {
+        "input": "lllqjjszkptzzgfkdffffvvr",
+        "target": "-mm--m------m-----mmm-m-"
+    },
+    {
+        "input": "bbssvffjjlswhlyssjjdvvtt",
+        "target": "-m-m--m-m-------m-m--m-m"
+    },
+    {
+        "input": "hvldqqqppdllgtzppttqqqfr",
+        "target": "-----mm-m--m----m-m-mm--"
+    },
+    {
+        "input": "ppfswgpptpkggggyystttvkz",
+        "target": "-m-----m----mmm-m--mm---"
+    },
+    {
+        "input": "bppqnpppzphwdqqxxrrrlzzy",
+        "target": "--m---mm------m-m-mm--m-"
+    },
+    {
+        "input": "ckrxxbbtzzzwvvlltxccttdq",
+        "target": "----m-m--mm--m-m---m-m--"
+    },
+    {
+        "input": "dddtzzsspxxxjjjgyrcwggdn",
+        "target": "--m--m-m--mm-mm------m--"
+    },
+    {
+        "input": "lxxwwwccljddlvpbbppprsvb",
+        "target": "--m-mm-m---m----m-mm----"
+    },
+    {
+        "input": "ppllwqqvggppprkxrqccttsl",
+        "target": "-m-m--m--m-mm------m-m--"
+    },
+    {
+        "input": "rrccckkkhvbyyypfvkkfnvsb",
+        "target": "-m-mm-mm----mm----m-----"
+    },
+    {
+        "input": "rrwddjnnqqcqdzzttbsssspd",
+        "target": "----m--m-m----m-m--mmm--"
+    },
+    {
+        "input": "jjnnlhhzzzggffggvgvqlxkz",
+        "target": "-m-m--m-mm-m-m-m--------"
+    },
+    {
+        "input": "tnslbkkyylxxxrrssrjjjkpg",
+        "target": "------m-m--mm-m-m--mm---"
+    },
+    {
+        "input": "zzvrkyyffywptblyyrrkkkkz",
+        "target": "-m----m-m-------m-m-mmm-"
+    },
+    {
+        "input": "sggnnttfdqqfffprpywwvvxl",
+        "target": "--m-m-m---m-mm-----m-m--"
+    },
+    {
+        "input": "zrsslppssgzkknqqpccppttg",
+        "target": "---m--m-m---m--m--m-m-m-"
+    },
+    {
+        "input": "pppxbxdddsprssqqbyyyhthg",
+        "target": "-mm----mm----m-m--mm----"
+    },
+    {
+        "input": "hhcwvgwffzzzbwdjqjjyyyyj",
+        "target": "-m------m-mm------m-mmm-"
+    },
+    {
+        "input": "nqqpllsqgssllttnnpprvppb",
+        "target": "--m--m----m-m-m-m-m---m-"
+    },
+    {
+        "input": "ggpprgxxvvwfptsjjjnnxxkz",
+        "target": "-m-m---m-m------mm-m-m--"
+    },
+    {
+        "input": "zzzzvqvjyyynnhzyylcbbvzq",
+        "target": "-mmm-----mm-m---m---m---"
+    },
+    {
+        "input": "xpqqkrrwcddqqykttttdhbbp",
+        "target": "---m--m---m-m---mmm---m-"
+    },
+    {
+        "input": "bshwwffvgggkhhypprxkwttt",
+        "target": "----m-m--mm--m--m-----mm"
+    },
+    {
+        "input": "ttszzzffbbbphqgfxxkkvnpd",
+        "target": "-m--mm-m-mm------m-m----"
+    },
+    {
+        "input": "xrrpxwtthppppbfjjwvvhfxx",
+        "target": "--m----m--mmm---m--m---m"
+    },
+    {
+        "input": "fnnrsttcvfrrrrbjppyccnkk",
+        "target": "--m---m----mmm---m--m--m"
+    },
+    {
+        "input": "qsspzkyyyrrkpppjjtckkszh",
+        "target": "--m----mm-m--mm-m---m---"
+    },
+    {
+        "input": "qxdzzntjgyllljjjnnggxxyt",
+        "target": "----m------mm-mm-m-m-m--"
+    },
+    {
+        "input": "wwwlppgkkzzbbrrrvfdgbqnn",
+        "target": "--m--m--m-m-m-mm-------m"
+    },
+    {
+        "input": "kccznhhhszkkrsswwwcdqzzn",
+        "target": "--m---mm---m--m-mm----m-"
+    },
+    {
+        "input": "hgkklllkvbqzwwqqzffffbwl",
+        "target": "---m-mm------m-m--mmm---"
+    },
+    {
+        "input": "hhpppnbbcyvhssgbbbjwwljc",
+        "target": "-m-mm--m-----m--mm--m---"
+    },
+    {
+        "input": "rrvwtqjjfrhttttzwwzhzzzp",
+        "target": "-m-----m----mmm--m---mm-"
+    },
+    {
+        "input": "vlppyyxbbfpwwljgwwwsswcc",
+        "target": "---m-m--m---m----mm-m--m"
+    },
+    {
+        "input": "lzzctttqtxnnnnrvjjhnncgy",
+        "target": "--m--mm----mmm---m--m---"
+    },
+    {
+        "input": "vkvvnnhjjkxxxxccqjnbkpbb",
+        "target": "---m-m--m--mmm-m-------m"
+    },
+    {
+        "input": "bbvhhhhdrrqbllbwwllgrjff",
+        "target": "----mmm--m---m--m-m----m"
+    },
+    {
+        "input": "bqfffbcccssxkvwjhttkhyyy",
+        "target": "---mm--mm-m-------m---mm"
+    },
+    {
+        "input": "zqzrsngnjjhcrrrlllgggkkt",
+        "target": "---------m---mm-mm-mm-m-"
+    },
+    {
+        "input": "kkfyhqqkswwfljjjjjtrvvgq",
+        "target": "-m----m---m---mmmm---m--"
+    },
+    {
+        "input": "vrrxkkqwppzzzlyhxxfflffz",
+        "target": "--m--m---m-mm----m-m--m-"
+    },
+    {
+        "input": "qyypppsskjpptddbcqbgggfz",
+        "target": "--m-mm-m---m--m-----mm--"
+    },
+    {
+        "input": "lylfllgpppwwwffjhhyzzvjx",
+        "target": "-----m--mm-mm-m--m--m---"
+    },
+    {
+        "input": "zrrjhvvrclyggxxnwwtttybb",
+        "target": "--m---m-----m-m--m-mm--m"
+    },
+    {
+        "input": "nntxsgxypppqqttyrrrjrrdq",
+        "target": "-m-------mm-m-m--mm--m--"
+    },
+    {
+        "input": "ffddpkkqwwtgvvcggdyynssx",
+        "target": "-m-m--m--m---m--m--m--m-"
+    },
+    {
+        "input": "tppwjqsdfzrrrpkknnnnnjbz",
+        "target": "--m--------mm--m-mmmm---"
+    },
+    {
+        "input": "wkknylllyxxpllqttcyyhfrr",
+        "target": "--m---mm--m--m--m--m---m"
+    },
+    {
+        "input": "rrzzljgcppnnjndkkjnrrrkk",
+        "target": "-m-m-----m-m----m---mm-m"
+    },
+    {
+        "input": "hbrrrpprrvvbtfjjvvvlnzyq",
+        "target": "---mm-m-m-m----m-mm-----"
+    },
+    {
+        "input": "tqybbbbbpvvvwggbljkjjwxt",
+        "target": "----mmmm--mm--m-----m---"
+    },
+    {
+        "input": "bbbgggzddddnqjhxslhxtbll",
+        "target": "-mm-mm--mmm------------m"
+    },
+    {
+        "input": "hhhljjbbggvrrwjdglhttjgg",
+        "target": "-mm--m-m-m--m-------m--m"
+    },
+    {
+        "input": "cnnxxwnssqqqqqkrrfxfxrxl",
+        "target": "--m-m---m-mmmm--m-------"
+    },
+    {
+        "input": "vhkjssstttkcccfzwwjgcpff",
+        "target": "-----mm-mm--mm---m-----m"
+    },
+    {
+        "input": "fslgggffhljpqddqpnnnnnrf",
+        "target": "----mm-m------m---mmmm--"
+    },
+    {
+        "input": "ltttxgfrwwwyjjjkhdcwkkff",
+        "target": "--mm-----mm--mm------m-m"
+    },
+    {
+        "input": "qvqjlssssknxnffkkyffkfff",
+        "target": "------mmm-----m-m--m--mm"
+    },
+    {
+        "input": "jlxxffqbbbgnbbbfvcctpxxn",
+        "target": "---m-m--mm---mm---m---m-"
+    },
+    {
+        "input": "xlljjpvvxxztttjfxnndgphh",
+        "target": "--m-m--m-m--mm----m----m"
+    },
+    {
+        "input": "vzznbgzznnqrwbccggltthhh",
+        "target": "--m----m-m-----m-m--m-mm"
+    },
+    {
+        "input": "wrtwyxxvvvwwsdcczjjyxxpp",
+        "target": "------m-mm-m---m--m--m-m"
+    },
+    {
+        "input": "qqqnhtgcvrrrccccwnndrhdp",
+        "target": "-mm-------mm-mmm--m-----"
+    },
+    {
+        "input": "qccvljbwvvvvzzphhpqqbbhb",
+        "target": "--m------mmm-m--m--m-m--"
+    },
+    {
+        "input": "gcjjqvjrvvvggsbrnwdddwww",
+        "target": "---m-----mm-m------mm-mm"
+    },
+    {
+        "input": "lzvddykjjjcpvvvzzccggztv",
+        "target": "----m---mm---mm-m-m-m---"
+    },
+    {
+        "input": "ydjzpdbltgzzqqqxxddzzzzc",
+        "target": "-----------m-mm-m-m-mmm-"
+    },
+    {
+        "input": "vslfnxfdddhhffllllqttprg",
+        "target": "--------mm-m-m-mmm--m---"
+    },
+    {
+        "input": "chhhhxlxxhhxrznnxtnrrcck",
+        "target": "--mmm---m-m----m----m-m-"
+    },
+    {
+        "input": "bblxddxtbbbbbjnllpqhxzff",
+        "target": "-m---m---mmmm---m------m"
+    },
+    {
+        "input": "wwwzzkkkqdhsbbvxdddgzljb",
+        "target": "-mm-m-mm-----m---mm-----"
+    },
+    {
+        "input": "ppsgrppfxbgjjqdddwwdpppb",
+        "target": "-m----m-----m--mm-m--mm-"
+    },
+    {
+        "input": "zjyyvpjjbbzhhtkttcckkkxs",
+        "target": "---m---m-m--m---m-m-mm--"
+    },
+    {
+        "input": "xntvjcccccfpccglyyttqllh",
+        "target": "------mmmm---m---m-m--m-"
+    },
+    {
+        "input": "hvzylrrrdbjbbvrrrrnyyjrr",
+        "target": "------mm----m--mmm--m--m"
+    },
+    {
+        "input": "ssccvlkpkkkgsskvqttddqqj",
+        "target": "-m-m-----mm--m----m-m-m-"
+    },
+    {
+        "input": "fffqqcpwlbsllllnjptknntt",
+        "target": "-mm-m-------mmm------m-m"
+    },
+    {
+        "input": "bsssnwydhhxpdtttsqnnntww",
+        "target": "--mm-----m----mm---mm--m"
+    },
+    {
+        "input": "vvchzstttwwffyzkqqyrbbkk",
+        "target": "-m-----mm-m-m----m---m-m"
+    },
+    {
+        "input": "nnwdwqqqnnkkkjjjbqgwfqhn",
+        "target": "-m----mm-m-mm-mm--------"
+    },
+    {
+        "input": "xcszjjjwwwddngtnnnnrnjfq",
+        "target": "-----mm-mm-m----mmm-----"
+    },
+    {
+        "input": "yccpzrrccyyxfblzgyyssssb",
+        "target": "--m---m-m-m-------m-mmm-"
+    },
+    {
+        "input": "yygxkkftcchwwpvvvbbkddgg",
+        "target": "-----m---m--m--mm-m--m-m"
+    },
+    {
+        "input": "qpkndddgghnnnlzzzrgxxlqr",
+        "target": "-----mm-m--mm--mm---m---"
+    },
+    {
+        "input": "jhtdvvvvvzgddtzggqbbgddy",
+        "target": "-----mmmm---m---m--m--m-"
+    },
+    {
+        "input": "xxggrrgllbbwypjwbhhhygcc",
+        "target": "-m-m-m--m-m-------mm---m"
+    },
+    {
+        "input": "fzzvwqqqhzzssssggbvtcqph",
+        "target": "--m---mm--m-mmm-m-------"
+    },
+    {
+        "input": "zwwybvxxdddpxpjzzjllpppt",
+        "target": "--m----m-mm-----m--m-mm-"
+    },
+    {
+        "input": "hzzjjjjcyffttnqlyyhgffxc",
+        "target": "--m-mmm---m-m----m---m--"
+    },
+    {
+        "input": "nnrrrvkwwsttzxgkknhllckk",
+        "target": "-m-mm---m--m----m---m--m"
+    },
+    {
+        "input": "jkvffsscbpgggddzjjsxgggj",
+        "target": "----m-m----mm-m--m---mm-"
+    },
+    {
+        "input": "gggbwwwrzyjbwwxpccpgwwwk",
+        "target": "-mm--mm------m---m---mm-"
+    },
+    {
+        "input": "ygsyyvxdjyddvvpprrwwwqqx",
+        "target": "----m------m-m-m-m-mm-m-"
+    },
+    {
+        "input": "vxpppwttrszghhhwddxxhhys",
+        "target": "---mm--m-----mm--m-m-m--"
+    },
+    {
+        "input": "rrkbbhkkdssxxgjjjghtdttv",
+        "target": "-m--m--m--m-m--mm-----m-"
+    },
+    {
+        "input": "xhvlvvfqqkkrrjjjhgcssllc",
+        "target": "-----m--m-m-m-mm----m-m-"
+    },
+    {
+        "input": "ztttqfflllzknnnlvjcwptvv",
+        "target": "--mm--m-mm---mm--------m"
+    },
+    {
+        "input": "lllwwwnvxyvvzbrrvzyqnnng",
+        "target": "-mm-mm-----m---m-----mm-"
+    },
+    {
+        "input": "dddsspggqkqqqrrryvykycrl",
+        "target": "-mm-m--m---mm-mm--------"
+    },
+    {
+        "input": "btpwytbqqxxxjffggrrrgwwn",
+        "target": "--------m-mm--m-m-mm--m-"
+    },
+    {
+        "input": "cwwfpzzrwwjjjgggzcyggvxr",
+        "target": "--m---m--m-mm-mm----m---"
+    },
+    {
+        "input": "tccsbwkzqqbfjjnnggtnjjjj",
+        "target": "--m------m---m-m-m---mmm"
+    },
+    {
+        "input": "wwyjjjnzzbtgjjcrrrklddrg",
+        "target": "-m--mm--m----m--mm---m--"
+    },
+    {
+        "input": "rddnttttvrknnndfvntcchht",
+        "target": "--m--mmm----mm------m-m-"
+    },
+    {
+        "input": "pgnnbgkksnhhhhhwtqqsllxf",
+        "target": "---m---m---mmmm---m--m--"
+    },
+    {
+        "input": "hhhxttvljjqsffttyrvzzvvk",
+        "target": "-mm--m---m---m-m----m-m-"
+    },
+    {
+        "input": "gvvdxvkrqqqnzzzwppnlpppq",
+        "target": "--m------mm--mm--m---mm-"
+    },
+    {
+        "input": "ggplllkssdllkdfffczvfkpp",
+        "target": "-m--mm--m--m---mm------m"
+    },
+    {
+        "input": "xxxvrccppssdzwqybyyvvrgg",
+        "target": "-mm---m-m-m-------m-m--m"
+    },
+    {
+        "input": "jjjlkqyjvvlssbbgzskfffcc",
+        "target": "-mm------m--m-m-----mm-m"
+    },
+    {
+        "input": "ppfzqqnlllqwgjlccccjtjjp",
+        "target": "-m---m--mm------mmm---m-"
+    },
+    {
+        "input": "qqqqqhkkfqpjsjjjjhxhbbzc",
+        "target": "--mmm--m------mmm----m--"
+    },
+    {
+        "input": "cppqgdxxcgkkktnncvvvddcz",
+        "target": "--m----m---mm--m--mm-m--"
+    },
+    {
+        "input": "tkkxxdsyyyxbbbssppxcpnpb",
+        "target": "--m-m---mm--mm-m-m------"
+    }
+]
